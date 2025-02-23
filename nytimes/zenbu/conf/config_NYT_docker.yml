@@ -1,0 +1,133 @@
+# ============================================================================
+#
+# File    : config_NYT_docker.yml
+# Date    :
+# (c)     :
+# Object  : Configuration file for NYT project (docker version).
+#
+# CAVEAT  : - filter fields ("kept_field" and "output_field") should have
+#             the same length. 
+#           - for now, database access is convenient (admin...) but not
+#             suitable
+#
+# ============================================================================
+ 
+# DB
+database:
+    db_name: NYT_db
+    db_host: nyt_mongodb_svc
+    db_port: 27017
+    db_user: admin
+    db_pass: serendipity
+
+# API calls
+api_calls:
+    api_address: nyt_fastapi_svc
+    api_protocol: http
+    api_port: 8000
+    api_username: "bob"
+    api_password: "builder"
+    api_endpoints:
+        book_price: "/books/random_price"
+
+# ML parameters
+ml:
+    serial_path: "/nyt_de/models"
+
+# DB load parameters
+db_load:
+    waiting_for: 15.0
+
+# Price collection parameters
+# Note : validity is in days, waiting_for and global_waiting_for are in seconds
+prices:
+    coll_name: Prices
+    delayed_launch: 10
+    country_code: JP
+    validity: 90
+    waiting_for: 0.5
+    global_waiting_for: 480.0
+    keep_going: true
+
+# Main folders
+data_dir: "/nyt_de/data"
+
+# Lock file folder :
+# To avoid launching several times the same script, we use
+# a lock file [not great but it's a first step...]
+lock_sub_dir: locks
+
+# Log path
+logs_sub_dir: logs
+
+# Collections to enrich
+collections:
+    archives:
+        coll_name: Archives
+        input_ext: json
+        input_sub_dir: json/input/archives
+        processing_sub_dir: json/processing/archives
+        failed_sub_dir: json/failed/archives
+        processed_sub_dir: json/processed/archives
+        payload_path: [
+            response, docs
+            ]
+        kept_field: [
+            abstract, web_url, snippet, multimedia, lead_paragraph, source,
+            keywords, headline, pub_date, document_type, news_desk,
+            section_name, byline, type_of_material, _id,
+            word_count, uri
+            ] 
+        output_field: [
+            abstract, web_url, snippet, multimedia, lead_paragraph, source,
+            keywords, headline, pub_date, document_type, news_desk,
+            section_name, byline, type_of_material, nyt_id,
+            word_count, uri
+            ] 
+    articles:
+        coll_name: Articles
+        input_ext: json
+        input_sub_dir: json/input/articles
+        processing_sub_dir: json/processing/articles
+        failed_sub_dir: json/failed/articles
+        processed_sub_dir: json/processed/articles
+        payload_path: [
+            response, docs
+            ]
+        kept_field: [
+            abstract, web_url, snippet, multimedia, lead_paragraph, source,
+            keywords, headline, pub_date, document_type, news_desk,
+            section_name, byline, type_of_material, _id,
+            word_count, uri
+            ] 
+        output_field: [
+            abstract, web_url, snippet, multimedia, lead_paragraph, source,
+            keywords, headline, pub_date, document_type, news_desk,
+            section_name, byline, type_of_material, nyt_id,
+            word_count, uri
+            ] 
+    books:
+        coll_name: Books
+        input_ext: json
+        input_sub_dir: json/input/books
+        processing_sub_dir: json/processing/books
+        failed_sub_dir: json/failed/books
+        processed_sub_dir: json/processed/books
+        payload_path: [
+            results
+            ]
+        unwind_key: lists
+        kept_field: [
+            bestsellers_date, published_date, published_date_description,
+            previous_published_date, next_published_date, 
+            list_id, list_name, list_name_encoded, display_name,
+            updated, list_image, list_image_width, list_image_height,
+            books
+            ]
+        output_field: [
+            bestsellers_date, published_date, published_date_description,
+            previous_published_date, next_published_date, 
+            list_id, list_name, list_name_encoded, display_name,
+            updated, list_image, list_image_width, list_image_height,
+            books
+            ]

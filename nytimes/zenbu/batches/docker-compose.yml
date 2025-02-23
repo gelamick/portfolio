@@ -1,0 +1,46 @@
+
+services:
+  fetch_articles:
+    container_name: fetch_articles
+    build:
+      context: .
+      dockerfile: Dockerfile-fetch
+    networks:
+      - article-network
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - ./exports:/app/exports  # <-- to mount the exports folder
+    command: ["python", "batchs/fetch_articles.py"]
+
+  fetch_books:
+    container_name: fetch_books
+    build:
+      context: .
+      dockerfile: Dockerfile-fetch
+    networks:
+      - article-network
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - ./exports:/exports  # <-- to mount the exports folder
+    command: ["python", "batchs/fetch_books.py"]
+
+  cron:
+    container_name: cron-service
+    build:
+      context: .
+      dockerfile: Dockerfile-cron
+    networks:
+      - article-network
+    volumes:
+      - ./logs:/app/logs
+    depends_on:
+      - fetch_articles
+      - fetch_books
+    command: cron -f
+
+networks:
+  article-network:

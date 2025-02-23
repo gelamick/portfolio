@@ -1,0 +1,35 @@
+# Initial Python image
+FROM python:3.12.5
+
+# Install cron
+RUN apt-get update && apt-get install -y cron
+
+# Set the working directory inside the container
+WORKDIR /nyt_de
+
+# Copy batches into the container
+COPY batches /nyt_de/batches
+
+# Copy the requirements
+COPY requirements /nyt_de/requirements
+
+# Install all required Python packages and their dependancies
+RUN pip install --no-cache-dir -r /nyt_de/requirements/cron_requirements.txt
+
+##
+# Cron
+
+# Copy the cronjob and set up cron
+COPY batches/cronjob /etc/cron.d/cronjob
+
+# Set the appropriate permissions for the cron job file
+RUN chmod 0644 /etc/cron.d/cronjob
+
+# Apply the cron job
+RUN crontab /etc/cron.d/cronjob
+
+# Create the log file to be able to run tail
+RUN touch /nyt_de/data/logs/cron_test.log
+
+# Run cron in the foreground
+CMD ["cron", "-f"]

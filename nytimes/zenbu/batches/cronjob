@@ -1,0 +1,4 @@
+# Run fetch_articles.py first day of the month
+0 2 1 * * root /usr/local/bin/python /nyt_de/batches/fetch_articles.py >> /nyt_de/data/logs/fetch_articles.log 2>&1
+# Run fetch_books.py first day of the month
+0 2 1 * * root /usr/local/bin/python /nyt_de/batches/fetch_books.py >> /nyt_de/data/logs/fetch_books.log 2>&1

@@ -1,0 +1,95 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for main headers */
+h1, h2 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Styling for buttons */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Change button color on hover */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Container for page content */
+div#page-content {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Styling for tables */
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+td {
+    background-color: #f9f9f9;
+}
+
+/* Styling for dropdowns */
+.dropdown {
+    width: 50%;
+    margin: 20px auto;
+}
+
+/* Styling for sliders */
+.slider {
+    margin: 20px auto;
+    width: 50%;
+}
+
+/* Container for graphs */
+.graph-container {
+    margin: 40px auto;
+    width: 80%;
+}
+
+/* Center elements on the page */
+.center {
+    text-align: center;
+}
+
+/* Form elements width styling */
+input, select {
+    width: 50%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}

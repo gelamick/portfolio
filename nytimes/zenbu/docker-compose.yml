@@ -1,0 +1,103 @@
+services:
+  nyt_mongodb_svc:
+    container_name: nyt_mongodb_cnt
+    image: mongo:7.0.14
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_DATABASE=auth
+      - MONGO_INITDB_ROOT_PASSWORD=serendipity
+      - MONGO_NYT_DB=NYT_db 
+    networks: 
+      - nyt-project-network
+    ports:
+      - '27017:27017'
+    volumes:
+      - ./data/mongodb:/data/db
+      - ./data/logs:/data/logs
+
+  nyt_dash_svc:
+    container_name: nyt_dash_cnt
+    build:
+      context: .
+      dockerfile: ./dockerfiles/dash_dockerfile
+    depends_on:
+      - nyt_mongodb_svc
+    environment:
+      - NYT_CONFIG_FILE=/nyt_de/conf/config_NYT_docker.yml
+    networks: 
+      - nyt-project-network
+    ports:
+      - '8050:8050'
+    volumes:
+      - ./conf:/nyt_de/conf
+      - ./data:/nyt_de/data
+      - ./models:/nyt_de/models
+
+  nyt_fastapi_svc:
+    container_name: nyt_api_cnt
+    build:
+      context: .
+      dockerfile: ./dockerfiles/api_dockerfile
+    depends_on:
+      - nyt_mongodb_svc
+    environment:
+      - NYT_CONFIG_FILE=/nyt_de/conf/config_NYT_docker.yml
+    networks: 
+      - nyt-project-network
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./conf:/nyt_de/conf
+      - ./data:/nyt_de/data
+      - ./models:/nyt_de/models
+
+  nyt_db_load_svc:
+    container_name: nyt_db_load_cnt
+    build:
+      context: .
+      dockerfile: ./dockerfiles/db_load_dockerfile
+    depends_on:
+      - nyt_mongodb_svc
+    environment:
+      - NYT_CONFIG_FILE=/nyt_de/conf/config_NYT_docker.yml
+    networks: 
+      - nyt-project-network
+    volumes:
+      - ./conf:/nyt_de/conf
+      - ./data:/nyt_de/data
+      - ./models:/nyt_de/models
+
+  nyt_prices_svc:
+    container_name: nyt_prices_cnt
+    build:
+      context: .
+      dockerfile: ./dockerfiles/prices_dockerfile
+    depends_on:
+      nyt_mongodb_svc:
+        condition: service_started
+      nyt_fastapi_svc:
+        condition: service_started
+    environment:
+      - NYT_CONFIG_FILE=/nyt_de/conf/config_NYT_docker.yml
+    networks: 
+      - nyt-project-network
+    volumes:
+      - ./conf:/nyt_de/conf
+      - ./data:/nyt_de/data
+      - ./models:/nyt_de/models
+
+  # nyt_cron_svc:
+  #   container_name: nyt_cron_cnt
+  #   build:
+  #     context: .
+  #     dockerfile: ./dockerfiles/cron_dockerfile
+  #   environment:
+  #     - NYT_CONFIG_FILE=/nyt_de/conf/config_NYT_docker.yml
+  #   networks: 
+  #     - nyt-project-network
+  #   volumes:
+  #     - ./conf:/nyt_de/conf
+  #     - ./data:/nyt_de/data
+
+networks:
+   nyt-project-network:

@@ -1,0 +1,20 @@
+# Initial Python image
+FROM python:3.12.5
+
+# Set the working directory in the container
+WORKDIR /nyt_de
+
+# Copy our code sub-folder
+COPY code /nyt_de/code
+
+# Copy our configuration sub-folder
+# COPY conf /nyt_de/conf
+
+# Copy the requirements
+COPY requirements /nyt_de/requirements
+
+# Install all required packages and their dependancies
+RUN pip install --no-cache-dir -r /nyt_de/requirements/prices_requirements.txt
+
+# Command to run the application
+CMD ["python", "code/prices_NYT_db.py"]

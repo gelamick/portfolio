@@ -1,0 +1,89 @@
+authentication:
+    batch_1:
+        api_server:
+            api_protocol: http
+            api_address: 127.0.0.1
+            api_port: 8000
+            endpoint: /verify
+            method: get
+        tests:
+            test_1:
+                username: alice
+                password: wonderland
+                expect: 200
+            test_2:
+                username: bob
+                password: brol
+                expect: 401
+authorization:
+    batch_1:
+        api_server:
+            api_protocol: http
+            api_address: 127.0.0.1
+            api_port: 8000
+            endpoint: /books/random_price
+            method: post
+        tests:
+            test_1:
+                username: alice
+                password: wonderland
+                params:
+                    isbn10: "1501161938"
+                    country: DE
+                expect: 200
+            test_2:
+                username: gustave
+                password: faubourg-de-Carthage-%0$
+                params:
+                    isbn10: "1501161938"
+                    country: DE
+                expect: 403
+content:
+    batch_1:
+        api_server:
+            api_protocol: http
+            api_address: 127.0.0.1
+            api_port: 8000
+            endpoint: /books/price
+            method: post
+        tests:
+            test_1:
+                username: bob
+                password: builder
+                params:
+                    isbn10: "1501161938"
+                    country: DE
+                returns:
+                    var: "status"
+                    value: "OK"
+                expect: 200
+            test_2:
+                username: bob
+                password: builder
+                params:
+                    isbn10: "ZZZZZZZZZZ"
+                    country: DE
+                returns:
+                    var: "status"
+                    value: "KO"
+                expect: 200
+    batch_2:
+        api_server:
+            api_protocol: http
+            api_address: 127.0.0.1
+            api_port: 8000
+            endpoint: /year_limits
+            method: post
+        tests:
+            test_1:
+                username: bob
+                password: builder
+                params:
+                    collection: "Books"
+                    date_var: "published_date"
+                    date_fmt: "%Y-%m-%d"
+                returns:
+                    var: "year_max"
+                    value: 2024
+                    test: " >= "
+                expect: 200

@@ -1,0 +1,6 @@
+mongod.lock
+nytimes/zenbu/data/mongodb/
+*.turtle
+*.lock
+*.wt
+diagnostic.data/

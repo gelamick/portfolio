@@ -1,0 +1,127 @@
+2024-11-18 16:33:31,891 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-18 16:33:41,759 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-18 17:10:06,432 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-18 17:10:06,439 - ERROR - Another instance of the script is already running.
+2024-11-18 17:10:16,441 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-18 17:18:15,841 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-18 17:18:16,591 - INFO - Upserting : ISBN10 = 0316569917
+2024-11-18 17:18:17,438 - INFO - Upserting : ISBN10 = 0374614059
+2024-11-18 17:18:18,211 - INFO - Upserting : ISBN10 = 1982179244
+2024-11-18 17:18:18,980 - INFO - Upserting : ISBN10 = 1338762451
+2024-11-18 17:18:19,758 - INFO - Upserting : ISBN10 = 1250862744
+2024-11-18 17:18:20,579 - INFO - Upserting : ISBN10 = 059350058X
+2024-11-18 17:18:21,370 - INFO - Upserting : ISBN10 = 133900092X
+2024-11-18 17:18:22,167 - INFO - Upserting : ISBN10 = 1464220689
+2024-11-18 17:18:22,955 - INFO - Upserting : ISBN10 = 0385549938
+2024-11-18 17:18:23,751 - INFO - Upserting : ISBN10 = 0063336723
+2024-11-18 17:18:24,532 - INFO - Upserting : ISBN10 = 1668032341
+2024-11-18 17:18:25,301 - INFO - Upserting : ISBN10 = 1538765705
+2024-11-18 17:18:26,080 - INFO - Upserting : ISBN10 = 0593235711
+2024-11-18 17:18:26,857 - INFO - Upserting : ISBN10 = 1668026821
+2024-11-18 17:18:27,629 - INFO - Upserting : ISBN10 = 0593418107
+2024-11-18 17:18:28,443 - INFO - Upserting : ISBN10 = 0063322579
+2024-11-18 17:18:29,224 - INFO - Upserting : ISBN10 = 078605073X
+2024-11-18 17:18:29,993 - INFO - Upserting : ISBN10 = 0593722566
+2024-11-18 17:18:30,761 - INFO - Upserting : ISBN10 = 1668072173
+2024-11-18 17:18:31,532 - INFO - Upserting : ISBN10 = 1957568763
+2024-11-18 17:18:32,299 - INFO - Upserting : ISBN10 = 1501995847
+2024-11-18 17:18:33,071 - INFO - Upserting : ISBN10 = 0593243935
+2024-11-18 17:18:33,843 - INFO - Upserting : ISBN10 = 0593184548
+2024-11-18 17:18:34,606 - INFO - Upserting : ISBN10 = 0593717953
+2024-11-18 17:18:35,392 - INFO - Upserting : ISBN10 = 1974746291
+2024-11-18 17:18:36,166 - INFO - Upserting : ISBN10 = 1368092209
+2024-11-18 17:18:36,933 - INFO - Upserting : ISBN10 = 1335456848
+2024-11-18 17:18:37,708 - INFO - Upserting : ISBN10 = 150110179X
+2024-11-18 17:18:38,483 - INFO - Upserting : ISBN10 = 0316576794
+2024-11-18 17:18:39,258 - INFO - Upserting : ISBN10 = 1982179260
+2024-11-18 17:18:40,034 - INFO - Upserting : ISBN10 = 1639367128
+2024-11-18 17:18:40,827 - INFO - Upserting : ISBN10 = 0063380196
+2024-11-18 17:18:41,624 - INFO - Upserting : ISBN10 = 1250899567
+2024-11-18 17:18:42,402 - INFO - Upserting : ISBN10 = 0593638794
+2024-11-18 17:18:42,178 - INFO - Upserting : ISBN10 = 059341893X
+2024-11-18 17:18:42,949 - INFO - Upserting : ISBN10 = 1419776037
+2024-11-18 17:18:43,718 - INFO - Upserting : ISBN10 = 0063238470
+2024-11-18 17:18:44,491 - INFO - Upserting : ISBN10 = 1974747050
+2024-11-18 17:18:45,271 - INFO - Upserting : ISBN10 = 1668048043
+2024-11-18 17:18:46,036 - INFO - Upserting : ISBN10 = 0593498364
+2024-11-18 17:18:46,814 - INFO - Upserting : ISBN10 = 1982182237
+2024-11-18 17:18:47,611 - INFO - Upserting : ISBN10 = 1454952717
+2024-11-18 17:18:48,383 - INFO - Upserting : ISBN10 = 1649377177
+2024-11-18 17:18:49,159 - INFO - Upserting : ISBN10 = 0316569909
+2024-11-18 17:18:49,943 - INFO - Upserting : ISBN10 = 1250327970
+2024-11-18 17:18:50,784 - INFO - Upserting : ISBN10 = 0593685288
+2024-11-18 17:18:51,565 - INFO - Upserting : ISBN10 = 0593498615
+2024-11-18 17:18:52,329 - INFO - Upserting : ISBN10 = 195756878X
+2024-11-18 17:18:53,099 - INFO - Upserting : ISBN10 = 1637633041
+2024-11-18 17:18:53,873 - INFO - Upserting : ISBN10 = 1420155954
+2024-11-18 17:18:54,644 - INFO - Upserting : ISBN10 = 059349721X
+2024-11-18 17:18:55,407 - INFO - Upserting : ISBN10 = 0063392887
+2024-11-18 17:18:56,178 - INFO - Upserting : ISBN10 = 0593481690
+2024-11-18 17:18:56,955 - INFO - Upserting : ISBN10 = 1668033666
+2024-11-18 17:18:57,729 - INFO - Upserting : ISBN10 = 1250268389
+2024-11-18 17:18:58,532 - INFO - Upserting : ISBN10 = 1368076599
+2024-11-18 17:18:59,308 - INFO - Upserting : ISBN10 = 1524763179
+2024-11-18 17:19:00,076 - INFO - Upserting : ISBN10 = 059348505X
+2024-11-18 17:19:00,855 - INFO - Upserting : ISBN10 = 1368025625
+2024-11-18 17:19:01,617 - INFO - Upserting : ISBN10 = 0063383608
+2024-11-18 17:19:02,393 - INFO - Upserting : ISBN10 = 1464220662
+2024-11-18 17:19:03,175 - INFO - Upserting : ISBN10 = 1982182261
+2024-11-18 17:19:03,936 - INFO - Upserting : ISBN10 = 0593864379
+2024-11-18 17:19:04,709 - INFO - Upserting : ISBN10 = 1250358930
+2024-11-18 17:19:05,468 - INFO - Upserting : ISBN10 = 006333674X
+2024-11-18 17:19:06,232 - INFO - Upserting : ISBN10 = 0063235560
+2024-11-18 17:19:06,997 - INFO - Upserting : ISBN10 = 0593299922
+2024-11-18 17:19:07,766 - INFO - Upserting : ISBN10 = 1594204128
+2024-11-18 17:19:08,533 - INFO - Upserting : ISBN10 = 1538723972
+2024-11-18 17:19:09,302 - INFO - Upserting : ISBN10 = 1401976506
+2024-11-18 17:19:10,077 - INFO - Upserting : ISBN10 = 0593717945
+2024-11-18 17:19:10,847 - INFO - Upserting : ISBN10 = 1464227292
+2024-11-18 17:19:11,643 - INFO - Upserting : ISBN10 = 0593475283
+2024-11-18 17:19:11,348 - INFO - Upserting : ISBN10 = 0316525553
+2024-11-18 17:19:12,126 - INFO - Upserting : ISBN10 = 0316481017
+2024-11-18 17:19:12,908 - INFO - Upserting : ISBN10 = 1728297869
+2024-11-18 17:19:13,710 - INFO - Upserting : ISBN10 = 198486324X
+2024-11-18 17:19:14,482 - INFO - Upserting : ISBN10 = 1250899575
+2024-11-18 17:19:15,285 - INFO - Upserting : ISBN10 = 0063393670
+2024-11-18 17:19:16,052 - INFO - Upserting : ISBN10 = 0063297868
+2024-11-18 17:19:16,828 - INFO - Upserting : ISBN10 = 1538719835
+2024-11-18 17:19:17,619 - INFO - Upserting : ISBN10 = 0593632842
+2024-11-18 17:19:18,388 - INFO - Upserting : ISBN10 = 0593533267
+2024-11-18 17:19:19,162 - INFO - Upserting : ISBN10 = 0063383616
+2024-11-18 17:19:19,938 - INFO - Upserting : ISBN10 = 1648210856
+2024-11-18 17:19:20,763 - INFO - Upserting : ISBN10 = 006289319X
+2024-11-18 17:19:21,541 - INFO - Upserting : ISBN10 = 0593446593
+2024-11-18 17:19:22,307 - INFO - Upserting : ISBN10 = 0063255952
+2024-11-18 17:19:23,073 - INFO - Upserting : ISBN10 = 0593489969
+2024-11-18 17:19:23,908 - INFO - Upserting : ISBN10 = 125085122X
+2024-11-18 17:19:24,708 - INFO - Upserting : ISBN10 = 1250288290
+2024-11-18 17:19:25,520 - INFO - Upserting : ISBN10 = 1250346746
+2024-11-18 17:19:26,322 - INFO - Upserting : ISBN10 = 031652557X
+2024-11-18 17:19:27,201 - INFO - Upserting : ISBN10 = 153876573X
+2024-11-19 09:19:40,668 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 09:19:40,713 - ERROR - Another instance of the script is already running.
+2024-11-19 09:19:50,742 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 09:28:07,343 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 13:07:59,185 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 13:07:59,237 - ERROR - Another instance of the script is already running.
+2024-11-19 13:08:09,238 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 13:23:03,257 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 13:23:03,303 - ERROR - Another instance of the script is already running.
+2024-11-19 13:23:13,304 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 13:27:15,595 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 13:27:15,619 - ERROR - Another instance of the script is already running.
+2024-11-19 13:27:25,620 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 13:30:20,375 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 13:30:20,425 - ERROR - Another instance of the script is already running.
+2024-11-19 13:30:30,426 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 13:39:39,857 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 13:39:49,763 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:14:20,180 - INFO - Connected to mongoDB server (mongodb://admin:serendipity@nyt_mongodb_svc:27017)
+2024-11-19 16:14:20,371 - ERROR - Another instance of the script is already running.
+2024-11-19 16:14:31,476 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:23:01,884 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:31:23,928 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:39:46,569 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:48:08,972 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 16:56:33,183 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]
+2024-11-19 17:04:56,706 - INFO - New pipeline : [{'$unwind': {'path': '$books', 'preserveNullAndEmptyArrays': False}}, {'$group': {'_id': {'isbn10': '$books.primary_isbn10'}}}]

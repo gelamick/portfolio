@@ -1,0 +1,27 @@
+# Dash
+dash>=2.17.1
+dash-core-components>=2.0.0
+dash-html-components>=2.0.0
+dash-table>=5.0.0
+dash-bootstrap-components>=1.6.0
+plotly>=5.23.0
+# Misc.
+annotated-types>=0.7.0
+pydantic>=2.9.2
+pydantic-core>=2.23.4
+starlette>=0.41.2
+bcrypt>=4.2.0
+#
+# Dataframes
+numpy>=2.0.1
+pandas>=2.2.2
+#
+# MongoDB
+pymongo>=4.8.0
+# More Misc.
+requests
+nltk
+wordcloud
+matplotlib
+PyYAML
+Pillow

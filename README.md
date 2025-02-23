@@ -20,13 +20,13 @@ Hi there! 👋 I'm Michael, an experienced global leader with 25 years in Busine
 
 Here are a few of my repositories:
 
-### 1. [Project 1: NYTimes Project](https://github.com/gelamick/portfolio/nytimes)
+### 1. [Project 1: NYTimes Project](https://github.com/gelamick/portfolio-main/nytimes)
 This project was carried out as part of the Data Engineer training at Datascientest (Data Engineer cohort, January 2024). We leverage the New York Times Developer Portal, which provides several APIs, to create a custom API for gathering and processing data from the NY Times.
 
-### 2. [Project 2: PowerBI](https://github.com/gelamick/portfolio/powerbiex)
+### 2. [Project 2: PowerBI](https://github.com/gelamick/portfolio-main/powerbiex)
 Several projects following my 5 full day intensive training at Datascientest (PowerBI, October 2023)
 
-### 3. [Project 3: Team comparaison Dashboard with Dash ](https://github.com/gelamick/portfolio/teamcomparedash)
+### 3. [Project 3: Team comparaison Dashboard with Dash ](https://github.com/gelamick/portfolio-main/teamcomparedash)
 Dash application allows users to compare the performance of NBA players and teams using a CSV file containing statistics
 
 ### 4. [Project 4: Claim Insurance](https://github.com/gelamick/claim_insurance)

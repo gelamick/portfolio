@@ -37,4 +37,3 @@ This application automates the process of sending scheduled email campaigns to p
 
 ## 📫 Contact Me
 - LinkedIn: [https://fr.linkedin.com/in/michaelabergel)
-- Website: [Your Website](https://michaelabergel.com)

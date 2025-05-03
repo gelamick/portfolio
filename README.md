@@ -32,10 +32,10 @@ Dash application allows users to compare the performance of NBA players and team
 ### 4. [Project 4: Claim Insurance](https://github.com/gelamick/claim_insurance)
 This project was carried out as part of the Data Analyst training at Datascientest (Data analyst cohort, March 2021). Streamlit_predict if a building will have an insurance claim during a certain period. 
 
-### 5. [Project 5: email campaign](https://github.com/gelamick/portfolio-main/marcom_email)
+### 5. [Project 5: email campaign](https://github.com/gelamick/portfolio/tree/portfolio-main/marcom_email)
 This application automates the process of sending scheduled email campaigns to prospects listed in an Excel sheet. It dynamically generates personalized email content based on a series of pre-defined templates and tracks the status of each email within the same Excel file. Using SMTP or API  (not public yet)
 
-### 6 [Project 6: LinkedIn Network](https://github.com/gelamick/portfolio-main/Net_Linkedin)
+### 6 [Project 6: LinkedIn Network](https://github.com/gelamick/portfolio/tree/portfolio-main/Net_Linkedin)
 This application maps your LinkedIn network from an exported CSV file. It automatically detects communities and clusters, and generates insightful PDF reports by year, company, and more. You can export a strategic contacts Excel file and explore your network through an interactive graph. A web-based interactive dashboard is also available via Streamlit. This is a work-in-progress version and will be improved.
 
 ## 📫 Contact Me

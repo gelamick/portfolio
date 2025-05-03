@@ -29,7 +29,7 @@ Several projects following my 5 full day intensive training at Datascientest (Po
 ### 3. [Project 3: Team comparaison Dashboard with Dash ](https://github.com/gelamick/portfolio-main/teamcomparedash)
 Dash application allows users to compare the performance of NBA players and teams using a CSV file containing statistics
 
-### 4. [Project 4: Claim Insurance](https://github.com/gelamick/claim_insurance)
+### 4. [Project 4: Claim Insurance] (https://github.com/gelamick/claim_insurance)
 This project was carried out as part of the Data Analyst training at Datascientest (Data analyst cohort, March 2021). Streamlit_predict if a building will have an insurance claim during a certain period. 
 
 ### 5. [Project 5: email campaign] (https://github.com/gelamick/portfolio-main/marcom_email)

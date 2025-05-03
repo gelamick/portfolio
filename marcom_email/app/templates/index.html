@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Start Campaign</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        header {
+            margin-bottom: 20px;
+        }
+        .flash-message {
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid transparent;
+            border-radius: 5px;
+        }
+        .success {
+            color: green;
+            border-color: green;
+            background-color: #d4edda; /* Light green background */
+        }
+        .error {
+            color: red;
+            border-color: red;
+            background-color: #f8d7da; /* Light red background */
+        }
+        form {
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #007bff; /* Bootstrap primary color */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Start Email Campaign</h1>
+    </header>
+
+    <!-- Display flash messages -->
+    {% if messages %}
+        {% for category, message in messages %}
+            <div class="flash-message {{ category }}" role="alert">{{ message }}</div>
+        {% endfor %}
+    {% endif %}
+
+    <main>
+        <form action="/start_campaign" method="post">
+            <button type="submit">Start Campaign</button>
+        </form>
+    </main>
+</body>
+</html>

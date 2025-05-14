@@ -44,11 +44,13 @@ Les utilisateurs peuvent télécharger un fichier CSV contenant ces indicateurs,
 # Ajouter un template de fichier CSV
 def generate_sample_csv():
     data = {
-        'absenteisme_psy': [0, 1, 2],
-        'charge_mentale': [1, 2, 3],
-        'soutien_managerial': [4, 3, 2],
-        'participation_prevention': [5, 4, 3],
-        'tranche_age': ['22-29', '30-39', '40-49']
+        'id': range(1, 6),
+        'tranche_age': ['46-55', '56+', '36-45', '26-35', '22-29'],
+        'absenteisme_psy': [3, 0, 3, 5, 2],
+        'charge_mentale': [1, 1, 3, 0, 5],
+        'soutien_managerial': [5, 4, 3, 0, 4],
+        'participation_prevention': [1, 5, 4, 1, 3],
+        'score_sante_mentale': ["", "", "", "", ""]
     }
     df = pd.DataFrame(data)
     csv = df.to_csv(index=False)

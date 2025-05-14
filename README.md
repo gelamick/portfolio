@@ -38,5 +38,8 @@ This application automates the process of sending scheduled email campaigns to p
 ### 6 [Project 6: LinkedIn Network](https://github.com/gelamick/portfolio/tree/portfolio-main/Net_Linkedin)
 This application maps your LinkedIn network from an exported CSV file. It automatically detects communities and clusters, and generates insightful PDF reports by year, company, and more. You can export a strategic contacts Excel file and explore your network through an interactive graph. A web-based interactive dashboard is also available via Streamlit. This is a work-in-progress version and will be improved.
 
+### 7 [Project 6: Workplace Mental Health Metrics](https://github.com/gelamick/portfolio/tree/portfolio-main/mental_health)
+This project proposes a simple algorithm to assess a mental health risk score based on several HR indicators and the age group of employees. The application can be run online via Streamlit for easy and quick use. Demo version (draft v.0.1)
+
 ## 📫 Contact Me
 - LinkedIn: [https://fr.linkedin.com/in/michaelabergel)

@@ -87,13 +87,13 @@ if uploaded_file is not None:
         
         # Graphique : Distribution des scores de santé mentale
         st.subheader("Distribution des scores par tranche d'âge")
-        plt.figure(figsize=(10, 6))
-        sns.boxplot(x="tranche_age", y="score_sante_mentale", data=df, palette="Set3")
-        plt.title("Distribution des scores de santé mentale par tranche d'âge")
-        plt.xlabel("Tranche d'âge")
-        plt.ylabel("Score santé mentale")
-        plt.grid(axis='y', linestyle='--', alpha=0.7)
-        st.pyplot()
+        fig, ax = plt.subplots(figsize=(10, 6))
+        sns.boxplot(x="tranche_age", y="score_sante_mentale", data=df, palette="Set3", ax=ax)
+        ax.set_title("Distribution des scores de santé mentale par tranche d'âge")
+        ax.set_xlabel("Tranche d'âge")
+        ax.set_ylabel("Score santé mentale")
+        ax.grid(axis='y', linestyle='--', alpha=0.7)
+        st.pyplot(fig)
 
         # Télécharger le fichier des résultats
         st.download_button(

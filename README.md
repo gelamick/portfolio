@@ -41,5 +41,8 @@ This application maps your LinkedIn network from an exported CSV file. It automa
 ### 7 [Project 7: Workplace Mental Health Metrics](https://github.com/gelamick/portfolio/tree/portfolio-main/mental_health)
 This project proposes a simple algorithm to assess a mental health risk score based on several HR indicators and the age group of employees. The application can be run online via Streamlit for easy and quick use. Demo version (draft v.0.1)
 
+### 8 [Project 8: Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com))
+This project provides an interactive analysis interface for bike counts across Montpellier’s urban area. It leverages cleaned and enriched datasets from OpenDataMontpellier, including school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, and view interactive maps with nearby points of interest. Intelligent suggestions help identify similar counters, and monthly projections forecast trends. The application demo is publicly accessible via Streamlit, but the source code is not open to the public.. Demo version (draft v.0.1)
+
 ## 📫 Contact Me
 - LinkedIn: [https://fr.linkedin.com/in/michaelabergel)

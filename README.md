@@ -32,7 +32,7 @@ Dash application allows users to compare the performance of NBA players and team
 ### 4. [Project 4: Claim Insurance](https://github.com/gelamick/claim_insurance)
 This project was carried out as part of the Data Analyst training at Datascientest (Data analyst cohort, March 2021). Streamlit_predict if a building will have an insurance claim during a certain period. 
 
-### 4a. [Project 4a: Enhancing the learning conditions of students](https://github.com/gelamick/claim_insurance)
+### 4a. [Project 4a: Enhancing the learning conditions of students](https://github.com/gelamick/portfolio/blob/portfolio-main/DPM%20Nov24-Datascientest.pdf)
 This project was carried out as part of the Data Product Manager training at Datascientest (Data Product Manager cohort, November 2024). It was a group project focused on proposing a data-driven improvement for Datascientest, with a solution designed to enhance the learning conditions of students.
 
 ### 5. [Project 5: email campaign](https://github.com/gelamick/portfolio/tree/portfolio-main/marcom_email)

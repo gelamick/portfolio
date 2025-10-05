@@ -2,13 +2,15 @@
 
 Hi there! 👋 I'm Michael, an experienced global leader with 25 years in Business Development, Sales Operations, and Sales Leadership across multiple industries, including technology, educational training, and services for both businesses and consumers. I have successfully managed high-performance international teams and driven business transformation. My experience spans companies of all sizes, from small businesses and associations to large enterprises. Below are some of my repositories that showcase my skills and projects.
 
+---
+
 ## 🔧 Skills
 - Web Development (HTML, CSS, JavaScript)
 - Python
 - Data Structures & Management
 - Machine Learning
 - Business Intelligence
-- Fast API
+- FastAPI
 - Docker
 - Git & GitHub
 - Collaborative Leadership
@@ -16,41 +18,95 @@ Hi there! 👋 I'm Michael, an experienced global leader with 25 years in Busine
 - International Experience
 - High Learning Agility
 
+---
+
 ## 💼 Projects
 
-Here are a few of my repositories:
+### 1. [NYTimes Project](https://github.com/gelamick/portfolio-main/nytimes)
+<details>
+<summary>Project details</summary>
 
-### 1. [Project 1: NYTimes Project](https://github.com/gelamick/portfolio-main/nytimes)
 This project was carried out as part of the Data Engineer training at Datascientest (Data Engineer cohort, January 2024). We leverage the New York Times Developer Portal, which provides several APIs, to create a custom API for gathering and processing data from the NY Times.
 
-### 2. [Project 2: PowerBI](https://github.com/gelamick/portfolio-main/powerbiex)
+</details>
+
+### 2. [PowerBI Projects](https://github.com/gelamick/portfolio-main/powerbiex)
+<details>
+<summary>Project details</summary>
+
 Several projects following my 5 full day intensive training at Datascientest (PowerBI, October 2023)
 
-### 3. [Project 3: Team comparaison Dashboard with Dash ](https://github.com/gelamick/tree/portfolio-main/teamcomparedash)
-Dash application allows users to compare the performance of NBA players and teams using a CSV file containing statistics
+</details>
 
-### 4. [Project 4: Claim Insurance](https://github.com/gelamick/claim_insurance)
-This project was carried out as part of the Data Analyst training at Datascientest (Data analyst cohort, March 2021). Streamlit_predict if a building will have an insurance claim during a certain period. 
+### 3. [Team Comparison Dashboard with Dash](https://github.com/gelamick/tree/portfolio-main/teamcomparedash)
+<details>
+<summary>Project details</summary>
 
-### 4a. [Project 4a: Enhancing the learning conditions of students](https://github.com/gelamick/portfolio/blob/portfolio-main/DPM%20Nov24-Datascientest.pdf)
-This project was carried out as part of the Data Product Manager training at Datascientest (Data Product Manager cohort, November 2024). It was a group project focused on proposing a data-driven improvement for Datascientest, with a solution designed to enhance the learning conditions of students.
+Dash application allows users to compare the performance of NBA players and teams using a CSV file containing statistics.
 
-### 5. [Project 5: email campaign](https://github.com/gelamick/portfolio/tree/portfolio-main/marcom_email)
-This application automates the process of sending scheduled email campaigns to prospects listed in an Excel sheet. It dynamically generates personalized email content based on a series of pre-defined templates and tracks the status of each email within the same Excel file. Using SMTP or API  (not public yet)
+</details>
 
-### 6 [Project 6: LinkedIn Network](https://github.com/gelamick/portfolio/tree/portfolio-main/Net_Linkedin)
-This application maps your LinkedIn network from an exported CSV file. It automatically detects communities and clusters, and generates insightful PDF reports by year, company, and more. You can export a strategic contacts Excel file and explore your network through an interactive graph. A web-based interactive dashboard is also available via Streamlit. This is a work-in-progress version and will be improved.
+### 4. [Claim Insurance](https://github.com/gelamick/claim_insurance)
+<details>
+<summary>Project details</summary>
 
-### 7 [Project 7: Workplace Mental Health Metrics](https://github.com/gelamick/portfolio/tree/portfolio-main/mental_health)
-This project proposes a simple algorithm to assess a mental health risk score based on several HR indicators and the age group of employees. The application can be run online via Streamlit for easy and quick use. Demo version (draft v.0.1)
+This project was carried out as part of the Data Analyst training at Datascientest (Data analyst cohort, March 2021). Streamlit predicts if a building will have an insurance claim during a certain period.
 
-### 9 [Project 8: Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com)
-This project provides an interactive analysis interface for bike counts across Montpellier’s urban area. It leverages cleaned and enriched datasets from OpenDataMontpellier, including school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, and view interactive maps with nearby points of interest. Intelligent suggestions help identify similar counters, and monthly projections forecast trends. The application demo is publicly accessible via Streamlit, but the source code is not open to the public.. [![👁️ Live Demo](https://img.icons8.com/ios-filled/24/000000/visible.png)](https://compteurs-velo-de-montpellier.onrender.com) **Click to explore the application** POC version (draft v.3.1)
+</details>
 
-### [Project 9: Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com)
-This project provides an interactive interface to explore surveillance camera coverage and local incident data across Montpellier. It leverages cleaned and harmonized datasets of city cameras, neighborhood boundaries, and geolocated incident reports from regional media. Users can visualize camera density by neighborhood, track historical installation trends, find nearby cameras, and explore clusters of incidents on interactive maps. The platform also offers statistical summaries and charts, helping identify coverage gaps and contextualize safety trends.
-[![👁️ Live Demo](https://img.icons8.com/ios-filled/24/000000/visible.png)](https://cameras-ef-faits-divers-montpellier.onrender.com/) **Click to explore the application** POC version
+### 4a. [Enhancing the Learning Conditions of Students](https://github.com/gelamick/portfolio/blob/portfolio-main/DPM%20Nov24-Datascientest.pdf)
+<details>
+<summary>Project details</summary>
 
+Data Product Manager cohort project (November 2024). Focused on proposing a data-driven improvement for Datascientest, enhancing students' learning conditions.
+
+</details>
+
+### 5. [Email Campaign Automation](https://github.com/gelamick/portfolio/tree/portfolio-main/marcom_email)
+<details>
+<summary>Project details</summary>
+
+Automates the process of sending scheduled email campaigns. Dynamically generates personalized content from templates and tracks status in the Excel file. Uses SMTP or API (not public yet).
+
+</details>
+
+### 6. [LinkedIn Network Analyzer](https://github.com/gelamick/portfolio/tree/portfolio-main/Net_Linkedin)
+<details>
+<summary>Project details</summary>
+
+Maps your LinkedIn network from an exported CSV. Detects communities, generates PDF reports by year/company, exports strategic contact lists, and provides an interactive Streamlit dashboard.
+
+</details>
+
+### 7. [Workplace Mental Health Metrics](https://github.com/gelamick/portfolio/tree/portfolio-main/mental_health)
+<details>
+<summary>Project details</summary>
+
+Assesses mental health risk scores based on HR indicators and employee age groups. Streamlit app available online. Demo version (draft v.0.1)
+
+</details>
+
+### 8. [Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com)
+<details>
+<summary>Project details</summary>
+
+Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.  
+[![👁️ Live Demo](https://img.icons8.com/ios-filled/50/000000/visible.png)](https://compteurs-velo-de-montpellier.onrender.com) **Click to explore the application**  
+POC version (draft v.3.1)
+
+</details>
+
+### 9. [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com)
+<details>
+<summary>Project details</summary>
+
+Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.  
+[![👁️ Live Demo](https://img.icons8.com/ios-filled/50/000000/visible.png)](https://cameras-ef-faits-divers-montpellier.onrender.com/) **Click to explore the application**  
+POC version 2.1.0
+
+</details>
+
+---
 
 ## 📫 Contact Me
-- LinkedIn: [https://fr.linkedin.com/in/michaelabergel)
+- LinkedIn: [Michaël Abergel](https://fr.linkedin.com/in/michaelabergel)

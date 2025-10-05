@@ -1,22 +1,28 @@
 # My GitHub Portfolio
 
-Hi there! 👋 I'm Michael, an experienced global leader with 25 years in Business Development, Sales Operations, and Sales Leadership across multiple industries, including technology, educational training, and services for both businesses and consumers. I have successfully managed high-performance international teams and driven business transformation. My experience spans companies of all sizes, from small businesses and associations to large enterprises. Below are some of my repositories that showcase my skills and projects.
+Hi there! 👋 I'm Michael, an experienced global leader with + 20 years in Business Development, Sales Operations, and Sales Leadership across multiple industries, including technology, educational training, and services for both businesses and consumers. I have successfully managed high-performance international teams and driven business transformation. My experience spans companies of all sizes, from small businesses and associations to large enterprises. Below are some of my repositories that showcase my skills and projects (live demo).
 
 ---
 
 ## 🔧 Skills
-- Web Development (HTML, CSS, JavaScript)
-- Python
-- Data Structures & Management
-- Machine Learning
-- Business Intelligence
-- FastAPI
-- Docker
-- Git & GitHub
-- Collaborative Leadership
-- Business Acumen
-- International Experience
-- High Learning Agility
+
+<details>
+<summary>Click to expand</summary>
+
+- Web Development (HTML, CSS, JavaScript)  
+- Python  
+- Data Structures & Management  
+- Machine Learning  
+- Business Intelligence  
+- FastAPI  
+- Docker  
+- Git & GitHub  
+- Collaborative Leadership  
+- Business Acumen  
+- International Experience  
+- High Learning Agility  
+
+</details>
 
 ---
 

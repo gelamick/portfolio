@@ -86,22 +86,22 @@ Assesses mental health risk scores based on HR indicators and employee age group
 
 </details>
 
-### 8. [Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com)
+### 8. [Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com) [Live Demo]
 <details>
 <summary>Project details</summary>
 
 Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.  
-[![Live Demo](https://img.icons8.com/parakeet-line/48/preview-pane.png)](https://compteurs-velo-de-montpellier.onrender.com) **Click to explore the application**  
+(https://compteurs-velo-de-montpellier.onrender.com) **Click to explore the application**  
 POC version (draft v.3.1)
 
 </details>
 
-### 9. [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com)
+### 9. [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) [Live Demo]
 <details>
 <summary>Project details</summary>
 
 Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.  
-[![Live Demo](https://img.icons8.com/parakeet-line/48/preview-pane.png)](https://cameras-ef-faits-divers-montpellier.onrender.com) **Click to explore the application**  
+(https://cameras-ef-faits-divers-montpellier.onrender.com) **Click to explore the application**  
 POC version 2.1.0
 
 </details>

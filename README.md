@@ -102,7 +102,17 @@ POC version (draft v.3.1)
 
 </details>
 
-### 9. [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) [Live Demo]
+### 9. [Montpellier Public Grants Data Explorer](https://attribution-des-subventions-aux.onrender.com/) [Live Demo]
+<details>
+<summary>Project details</summary>
+
+Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
+(https://attribution-des-subventions-aux.onrender.com/) **Click to explore the application**  
+POC version 1.2.0
+
+</details>
+
+### 10. [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) [Live Demo]
 <details>
 <summary>Project details</summary>
 
@@ -111,7 +121,6 @@ Interactive interface to explore surveillance camera coverage and local incident
 POC version 2.1.0
 
 </details>
-
 ---
 
 ## 📫 Contact Me

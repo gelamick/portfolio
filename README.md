@@ -108,7 +108,7 @@ POC version (draft v.3.1)
 
 Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
 (https://attribution-des-subventions-aux.onrender.com/) **Click to explore the application**  
-POC version 1.2.0
+MVC version 1.2.0
 
 </details>
 
@@ -121,6 +121,24 @@ Interactive interface to explore surveillance camera coverage and local incident
 POC version 2.1.0
 
 </details>
+
+### 11. [Palavas Surf & Paddle Conditions](https://padsurf-at-palavas-les-flots.onrender.com/) [Live Demo]
+<details>
+<summary>Project details</summary>
+
+Finding ideal conditions for surfing or paddleboarding in Palavas-les-Flots (and the Mediterranean) is rare and challenging—short, irregular swells, variable winds, and spot orientation all affect wave quality.  
+
+This app analyzes weather, swell, and wind data to identify perfect windows for water sports, boost local activity, and enhance coastal tourism.  
+
+- Real-time updates every 30 minutes  
+- Weekly forecasts  
+- Telegram notifications twice daily to never miss a session  
+
+(https://padsurf-at-palavas-les-flots.onrender.com/) **Click to explore the application** 
+**MVC version 2.1.0**  
+
+</details>
+
 ---
 
 ## 📫 Contact Me

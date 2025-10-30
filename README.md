@@ -135,7 +135,25 @@ This app analyzes weather, swell, and wind data to identify perfect windows for 
 - Telegram notifications twice daily to never miss a session  
 
 (https://padsurf-at-palavas-les-flots.onrender.com/) **Click to explore the application** 
-**MVC version 2.1.0**  
+**POC version 2.1.0**  
+
+</details>
+
+### 12. [Segment 360 – Multi-Sector Segmentation POC](https://segment360-segmentation-clients-multi.onrender.com) [Live Demo]
+<details>
+<summary>Project details</summary>
+
+This interface automatically analyzes customer behavior and generates tailored marketing recommendations for multiple sectors including Camping, Photovoltaics, Training, Health & Wellness, and Modular Logistics. The app provides key metrics such as Churn Score, Churn Risk, future LTV, and segment summaries (Cluster or RFM). Users can visualize distributions, segment charts, and interactive maps to identify high-potential or at-risk clients, optimizing marketing campaigns and ROI.  
+
+- Multi-sector customer data analysis (CSV / JSON)  
+- Interactive charts, segment distributions, and maps  
+- Key metrics: Churn Score, Churn Risk, LTV, segment summaries  
+- Personalized marketing recommendations per segment  
+
+**Key insight:** Quickly detect at-risk clients, estimate future LTV per segment, and generate tailored marketing strategies to improve retention and optimize marketing investments by sector.  
+
+(https://segment360-segmentation-clients-multi.onrender.com) **Click to explore the application** 
+**POC version 2.4.0**  
 
 </details>
 

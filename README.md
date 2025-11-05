@@ -97,8 +97,9 @@ Assesses mental health risk scores based on HR indicators and employee age group
 <summary>Project details</summary>
 
 Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.  
-(https://compteurs-velo-de-montpellier.onrender.com) **Click to explore the application**  
-POC version (draft v.3.1)
+
+[Live Demo on Render](https://compteurs-velo-de-montpellier.onrender.com) 
+MVC version (v.4.1)
 
 </details>
 
@@ -107,7 +108,8 @@ POC version (draft v.3.1)
 <summary>Project details</summary>
 
 Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
-(https://attribution-des-subventions-aux.onrender.com/) **Click to explore the application**  
+
+[Live Demo on Render](https://attribution-des-subventions-aux.onrender.com/) 
 MVC version 1.2.0
 
 </details>
@@ -117,7 +119,8 @@ MVC version 1.2.0
 <summary>Project details</summary>
 
 Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.  
-(https://cameras-ef-faits-divers-montpellier.onrender.com) **Click to explore the application**  
+
+[Live Demo on Render](https://cameras-ef-faits-divers-montpellier.onrender.com) 
 POC version 2.1.0
 
 </details>
@@ -134,7 +137,7 @@ This app analyzes weather, swell, and wind data to identify perfect windows for 
 - Weekly forecasts  
 - Telegram notifications twice daily to never miss a session  
 
-(https://padsurf-at-palavas-les-flots.onrender.com/) **Click to explore the application** 
+[Live Demo on Render](https://padsurf-at-palavas-les-flots.onrender.com/)
 **POC version 2.1.0**  
 
 </details>
@@ -152,7 +155,7 @@ This interface automatically analyzes customer behavior and generates tailored m
 
 **Key insight:** Quickly detect at-risk clients, estimate future LTV per segment, and generate tailored marketing strategies to improve retention and optimize marketing investments by sector.  
 
-(https://segment360-segmentation-clients-multi.onrender.com) **Click to explore the application** 
+[Live Demo on Render](https://segment360-segmentation-clients-multi.onrender.com)
 **POC version 2.4.0**  
 
 </details>

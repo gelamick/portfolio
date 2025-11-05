@@ -157,6 +157,25 @@ This interface automatically analyzes customer behavior and generates tailored m
 
 </details>
 
+### 13. [Assistant Leads AI – Lead Generation, Analysis & Prediction POC](https://assistant-leads-ai-formation.onrender.com/) [Live Demo]
+
+<details>
+<summary>Project details</summary>
+
+This interface generates synthetic marketing leads, automatically analyzes their behavior, and predicts their conversion probability. The app provides key metrics such as **interest score**, **estimated conversion rate**, and automatic recommendations to prioritize leads or integrate them into nurturing actions. Users can explore the dataset through interactive charts, filter by source or region, and test predictions in real time via the integrated Streamlit interface.  
+
+- Synthetic leads dataset analysis (CSV)  
+- Features include demographics (sector, company size, region, country), marketing engagement (email opens, clicks, site visits, interactions), contact history, and model-generated variables (conversion probability, interest score, recommended actions)  
+- Interactive visualizations and filters for source, region, and other key attributes  
+- Machine Learning models: RandomForest, LightGBM, CatBoost, XGBoost  
+
+**Key insight:** Quickly identify high-potential leads, estimate their probability of conversion, and generate automated, actionable recommendations. The app demonstrates a full **Data → ML → API → UI pipeline** and serves as a pedagogical POC for lead scoring and predictive analytics.  
+
+[Live Demo on Render](https://assistant-leads-ai-formation.onrender.com/)  
+**POC version 1.4.2**
+
+</details>
+
 ---
 
 ## 📫 Contact Me

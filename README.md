@@ -200,6 +200,40 @@ This interface allows users to explore and understand the lifecycle of data in a
 
 </details>
 
+### 15. [Optibox – Container Pricing Optimizer & Simulator](https://optibox-container-pricing-simulator.onrender.com/) [Live Demo]
+
+<details>
+<summary>Project details</summary>
+
+Optibox is an interactive **pricing optimization and simulation platform** designed to help business users explore, compare, and understand multiple pricing strategies in a clear and actionable way, with a specific focus on the **modular logistics sector**. The application supports pricing decisions for services such as container rental, modular storage, temporary logistics infrastructure, and transport-related offerings, where pricing must adapt to demand, utilization, and competitive pressure.
+
+The platform combines **data-driven price recommendations** with **manual what-if simulation tools**, allowing users to model realistic pricing scenarios across different client types, container formats, and geographic zones.
+
+Users can explore the **7 pricing strategies available** in Optibox:
+
+1. **💎 Value-based pricing** – Prices aligned with perceived customer value and service differentiation  
+2. **⚔️ Competitive pricing** – Prices benchmarked against market and competitor levels  
+3. **📦 Cost-plus pricing** – Cost-based pricing with configurable margin  
+4. **⚡ Dynamic pricing** – Prices adjusted dynamically based on demand and stock availability  
+5. **🧾 Skimming pricing** – High initial price at launch, decreasing over time  
+6. **💰 Penetration pricing** – Low entry price to capture market share, increasing over time  
+7. **💸 Economic pricing** – Low-margin pricing strategy focused on volume maximization  
+
+Additional capabilities include:
+
+- **💡Multi-Strategy Simulator:** – Manual simulation of pricing scenarios for modular logistics assets  
+- **Interactive Visualizations:** Histograms, scatter plots, and radar charts to compare pricing strategies and financial outcomes  
+- **Export & Decision Support:** Downloadable CSV outputs to support pricing governance and commercial decision-making  
+
+Built with **Streamlit**, **Pandas**, **NumPy**, and **Plotly**, Optibox demonstrates a complete **Pricing → Simulation → Forecasting → Visualization → Decision pipeline** applied to **modular logistics pricing challenges**.
+
+**Key insight:** Optibox enables logistics operators to move from static or intuition-based pricing to **dynamic, data-driven pricing strategies**, improving margin control, demand alignment, and competitiveness in modular logistics markets.
+
+[Live Demo](https://optibox-container-pricing-simulator.onrender.com/)  
+**Version 1.0.0**
+
+</details>
+
 ---
 
 ## 📫 Contact Me

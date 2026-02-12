@@ -258,7 +258,7 @@ It combines:
 **Insight:** Combines real-time data, statistical analysis, and ML to provide reliable horse performance evaluation.
 
 [Live Demo](https://vincennesx.onrender.com/)  
-**Version 1.0.0**
+**Version 4.1.0**
 
 </details>
 

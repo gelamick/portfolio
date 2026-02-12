@@ -234,6 +234,34 @@ Built with **Streamlit**, **Pandas**, **NumPy**, and **Plotly**, Optibox demonst
 
 </details>
 
+### 16. [VincennesX – Horse Racing Scoring & Prediction](https://vincennesx.onrender.com/) [Live Demo]
+
+<details>
+<summary>Project details</summary>
+
+**VincennesX** is an interactive platform for **scoring and predicting horse performance**, focused on **Vincennes trotting races**.  
+
+It combines:  
+- 🤖 **Machine Learning** – Predicts horse rankings (AUC ROC = 0.8066, Top4 = 62 %).  
+- ⚖️ **Heuristic scoring** – Based on past performance, consistency, context, and race adjustments.  
+- 🌐 **Web scraping** – Collects PMU data: results, odds, jockeys, trainers.  
+
+**Key features:**  
+- 💡 Scoring & prediction (heuristic + ML)  
+- 📊 Multi-criteria analysis for horse comparison  
+- 📈 Probabilities & Value Index (chance ≥2 horses in Top5, expected hit rate)  
+- 📝 Transparent and pedagogical explanations  
+
+**Technologies:** Streamlit, Pandas, NumPy, Pillow  
+**Pipeline:** Web scraping → Data → Heuristic scoring → ML → Visualization → Decision support  
+
+**Insight:** Combines real-time data, statistical analysis, and ML to provide reliable horse performance evaluation.
+
+[Live Demo](https://vincennesx.onrender.com/)  
+**Version 1.0.0**
+
+</details>
+
 ---
 
 ## 📫 Contact Me

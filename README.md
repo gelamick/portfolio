@@ -262,6 +262,39 @@ It combines:
 
 </details>
 
+### 17. [HELM – Executive Revenue & Cash Cockpit](https://helm-ofag.onrender.com/) [Live Demo]
+
+<details>
+<summary>Project details</summary>
+
+**HELM** is an executive financial cockpit designed to give company leaders a **clear, actionable view of revenue and cash performance** in less than two minutes.
+
+The platform focuses on answering critical executive questions:
+- Where does the company really stand financially?
+- Is growth actually generating cash?
+- Where do orders get stuck before becoming revenue?
+- Which operational levers should be prioritized?
+
+**Key features:**
+- 📊 **Executive dashboard** with 5 core financial KPIs (Revenue, Cashflow, EBE, CAF, Time-to-Cash)  
+- 🔍 **Revenue engine analysis** from orders to cash collection  
+- 🌀 **Flywheel diagnostics** identifying operational frictions (churn, delays, margins, recurring revenue)  
+- 🔮 **Decision simulations** to test the impact of strategic actions on cashflow  
+- 🧠 **Automated executive insights** summarizing the financial situation  
+
+**Technologies:** Streamlit, Pandas, NumPy  
+**Architecture:** Modular Python structure (core logic, data layer, pages UI)  
+**Pipeline:** Data → Financial metrics → Diagnostic engine → Visualization → Executive decision support  
+
+**Insight:** HELM transforms raw operational data into an **executive-level financial narrative**, helping leaders identify cash bottlenecks and prioritize the most impactful decisions.
+
+⚠️ Demo version uses **synthetic data generated via `data_generator.py`**.
+
+[Live Demo](https://helm-ofag.onrender.com/)  
+**Version 1.3**
+
+</details>
+
 ---
 
 ## 📫 Contact Me

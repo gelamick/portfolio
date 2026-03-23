@@ -295,6 +295,50 @@ The platform focuses on answering critical executive questions:
 
 </details>
 
+### 18. [LEVIER – Operating Model EdTech · Pilotage des flux & décisions opérationnelles](https://levier.onrender.com) [Live Demo]
+
+<details>
+<summary>Project details</summary>
+
+**LEVIER** is an operational simulation platform designed for COOs in EdTech to **monitor, understand, and optimize the full learner lifecycle**—from enrollment to certification.
+
+The tool answers key operational questions:
+- Where are learners dropping off in the journey?
+- Which departments are overloaded or underperforming?
+- How do operational decisions impact learner success and revenue?
+- What actions should be prioritized to reduce churn?
+
+**Key features:**
+- 🎓 **End-to-end learner journey tracking** (enrollment → engagement → exam → completion)  
+- ⚠️ **Dropout risk scoring** based on engagement, progression, and support interactions  
+- 🏢 **Department workload monitoring** (Admissions, Customer Support, After-Sales Service, Exams)  
+- 🔄 **Inter-department simulation engine** to model cascading operational impacts  
+- 📊 **Dynamic dashboards** for engagement, tickets, performance, and outcomes  
+- 🧭 **Learner Journey Analysis**: full visualization of the learner lifecycle and identification of **friction points** across cohorts  
+- 🔍 **Full journey tracking** to precisely identify dropout moments
+- 📊 **Silo Simulation · Cross-Department Impact**: Activate a lever in one department and instantly visualize how its effects cascade across Admissions, Support, SAV, and  Exams, impacting key business KPIs.
+
+---
+
+**Technologies:** Streamlit, Pandas, NumPy, Faker  
+**Architecture:** Modular Python (generator, domain logic, data loader, UI pages)  
+**Pipeline:** Synthetic data → Business rules → Risk & engagement models → Simulation engine → Visualization  
+
+**Methodology highlights:**
+- 📉 **Engagement model** based on weekly activity (connections)  
+- 🎯 **Risk scoring algorithm** combining behavioral and operational signals  
+- 🔗 **Causal simulation logic** linking decisions across departments  
+- 📦 **Synthetic dataset generation** ensuring reproducibility via seeded randomness  
+
+**Insight:** LEVIER provides a **COO-level operational mirror**, transforming complex workflows into actionable insights and allowing leaders to simulate decisions before implementing them.
+
+⚠️ This demo uses **fully synthetic data generated via `generator.py`** — no real user data.
+
+[Live Demo](https://levier.onrender.com/)  
+**Version 1.3.0**
+
+</details>
+
 ---
 
 ## 📫 Contact Me

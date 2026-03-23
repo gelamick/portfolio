@@ -295,7 +295,7 @@ The platform focuses on answering critical executive questions:
 
 </details>
 
-### 18. [LEVIER – Operating Model EdTech · Pilotage des flux & décisions opérationnelles](https://levier.onrender.com) [Live Demo]
+### 18. [LEVIER – Operating Model EdTech](https://levier.onrender.com) [Live Demo]
 
 <details>
 <summary>Project details</summary>

@@ -1,6 +1,21 @@
 # My GitHub Portfolio
 
-Hi there! 👋 I'm Michael, an experienced global leader with + 20 years in Business Development, Sales Operations, and Sales Leadership across multiple industries, including technology, educational training, and services for both businesses and consumers. I have successfully managed high-performance international teams and driven business transformation. My experience spans companies of all sizes, from small businesses and associations to large enterprises. Below are some of my repositories that showcase my skills and projects (live demo).
+Hi there! 👋 I'm Michael, a Revenue Operations and Business Operations professional with 20+ years of experience across sales, commercial performance, and operational excellence in international environments.
+
+My background combines business leadership, sales operations, CRM optimization, and data-driven decision-making, with experience spanning global enterprise environments, SMEs, and entrepreneurial ventures across technology, education, and services.
+
+Over the years, I have led international teams, optimized commercial processes, improved operational performance, and contributed to scalable business growth initiatives.
+
+More recently, I have expanded my expertise into data, AI, automation, and modern analytics tools to strengthen business performance, operational efficiency, and decision support.
+
+This portfolio showcases projects and repositories related to:
+
+- Data Analytics & Business Intelligence
+- AI & Machine Learning
+- Python & Automation
+- APIs & Backend Development
+- CRM & Business Performance
+- Process Optimization & Data-Driven Operations
 
 ---
 
@@ -9,18 +24,19 @@ Hi there! 👋 I'm Michael, an experienced global leader with + 20 years in Busi
 <details>
 <summary>Click to expand</summary>
 
-- Web Development (HTML, CSS, JavaScript)  
-- Python  
-- Data Structures & Management  
-- Machine Learning  
-- Business Intelligence  
-- FastAPI  
-- Docker  
-- Git & GitHub  
-- Collaborative Leadership  
-- Business Acumen  
-- International Experience  
-- High Learning Agility  
+- Revenue Operations & Sales Operations
+- CRM & Business Process Optimization
+- Business Intelligence & KPI Management
+- Python
+- astAPI
+- Machine Learning
+- Data Analysis & Visualization
+- Docker
+- Git & GitHub
+- Web Development (HTML, CSS, JavaScript)
+- Cross-functional Leadership
+- International Business Experience
+- Continuous Learning & Adaptability
 
 </details>
 

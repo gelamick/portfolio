@@ -92,7 +92,7 @@ Automates the process of sending scheduled email campaigns. Dynamically generate
 
 </details>
 
-### 6. [LinkedIn Network Analyzer](https://github.com/gelamick/portfolio/tree/portfolio-main/Net_Linkedin)
+### 6. [LinkedIn Network Analyzer](https://github.com/gelamick/Net_Linkedin)
 <details>
 <summary>Project details</summary>
 

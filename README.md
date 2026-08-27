@@ -24,22 +24,25 @@ This portfolio illustrates how I use data analytics, dashboards, and AI prototyp
 
 - [Expertise](#-expertise)
 - [🚀 Live Demos — Business Cases](#-live-demos--business-cases)
-- [🎓 Training Projects (Datascientest)](#-training-projects-datascientest)
-- [🛠️ Tools & Automation](#️-tools--automation)
+- [🎓 Applied Learning Projects (Datascientest)](#-applied-learning-projects-datascientest)
+- [🛠️ Operational Tools & Automation](#️-operational-tools--automation)
 - [Contact](#-contact)
 
 ---
 
 ## 🔧 Expertise
 
-| Business & Operations | Data-Driven Decision Support |
-|---|---|
-| Business & Commercial Operations | Business Intelligence & KPI dashboards |
-| Organizational transformation & continuous improvement | Data analysis & reporting |
-| Business process optimization | Customer/segment analytics |
-| Performance management & KPI governance | AI-assisted prototyping for business cases |
-| CRM, Data & Business Systems | Website creation (WordPress/Elementor), DNS & domain management, hosting admin (Plesk) |
-| Cross-functional coordination & change management | Basic on-page SEO |
+**💼 Revenue & Sales Operations**
+CRM structuring & sales pipeline management · KPI, dashboards & sales forecast piloting · Sales process & customer experience optimization · Sales team management & organization
+
+**📈 Business Development**
+B2B strategic account growth (3,000+ accounts managed) · International expansion — multi-country offshore center (France, Spain, Morocco) · Complex sales cycles & key account negotiation · Sales leadership & management (40+ people)
+
+**📊 Business Operations & Data**
+Business Intelligence & KPI dashboards · Data reliability & structuring · Reporting & workflow automation · Customer/segment analytics · AI-assisted prototyping for business cases
+
+**🔄 Transformation & AI**
+Change management & organizational transformation · AI project scoping & delivery · Team training & upskilling · Cross-functional coordination
 
 **Professional certifications:** Chef de Projet en Intelligence Artificielle — RNCP Level 7 (Audencia Business School, 2025)¹ · Data Product Manager (Datascientest, 2025) · Data Engineer (Mines Paris PSL, 2024) · Data Analyst (Sorbonne, 2021)
 

@@ -1,5 +1,4 @@
-# Michaël Abergel 
-**Business & Commercial Operations Manager**
+# Michaël Abergel - Business Operations Manager
 
 *🇫🇷 Profil basé en France, ouvert au marché français et aux entreprises internationales — README en anglais (convention GitHub), contenu détaillé en français sur [michaelabergel.com](https://michaelabergel.com).*
 

@@ -235,8 +235,8 @@ Case studies completed during my Data Product Manager, Data Engineer, and Data A
 | Project | Business Question | Certification |
 |---|---|---|
 | [Enhancing Learning Conditions of Students](https://github.com/gelamick/portfolio/blob/portfolio-main/DPM%20Nov24-Datascientest.pdf) | How can data uncover concrete ways to improve student experience and outcomes? | Data Product Manager, Nov 2024 |
-| [NYTimes Project](https://github.com/gelamick/portfolio-main/nytimes) | How do you turn a public data source into a usable, structured information feed? | Data Engineer, Jan 2024 |
-| [PowerBI Projects](https://github.com/gelamick/portfolio-main/powerbiex) | How do you turn raw figures into dashboards leadership can act on? | PowerBI intensive, Oct 2023 |
+| [NYTimes Project](https://github.com/gelamick/nytimes) | How do you turn a public data source into a usable, structured information feed? | Data Engineer, Jan 2024 |
+| [PowerBI Projects](https://github.com/gelamick/powerbiex) | How do you turn raw figures into dashboards leadership can act on? | PowerBI intensive, Oct 2023 |
 | [Claim Insurance](https://github.com/gelamick/claim_insurance) | Can historical data predict insurance claim risk before it happens? | Data Analyst, Mar 2021 |
 | [Team Comparison Dashboard](https://github.com/gelamick/teamcomparedash) | How do you benchmark performance across teams/individuals from raw stats? | — |
 

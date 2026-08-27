@@ -250,7 +250,7 @@ Small tools built to solve day-to-day operational and commercial pain points —
 |---|---|
 | [Email Campaign Automation](https://github.com/gelamick/marcom_email) | Removes manual work from recurring marketing campaigns — personalized content and delivery tracking without touching a spreadsheet by hand. |
 | [LinkedIn Network Analyzer](https://github.com/gelamick/Net_Linkedin) 🗄️ *Projet archivé / non maintenu* | Turns a personal/professional network into a strategic asset — surfaces key contacts and relationship clusters by year and company to prioritize outreach. |
-| [Workplace Mental Health Metrics](https://github.com/gelamick/portfolio/tree/portfolio-main/mental_health) | Gives HR and team leaders an early-warning indicator on wellbeing risk, based on existing HR data — supporting proactive rather than reactive people management. |
+| [Workplace Mental Health Metrics](https://github.com/gelamick/mental_health) | Gives HR and team leaders an early-warning indicator on wellbeing risk, based on existing HR data — supporting proactive rather than reactive people management. |
 
 ---
 

@@ -71,7 +71,7 @@ Interactive applications built to explore real operational and commercial questi
 | 9 | [VincennesX – Horse Racing Prediction](https://vincennesx.onrender.com/) | ML + heuristic race scoring | Streamlit, web scraping | 4.1.0 |
 | 10 | [HELM – Executive Revenue & Cash Cockpit](https://helm-ofag.onrender.com/) | Executive financial dashboard | Streamlit, Pandas | 1.3 |
 | 11 | [LEVIER – EdTech Operating Model](https://levier.onrender.com) | Learner lifecycle & operations simulation | Streamlit, Faker | 1.3.0 |
-| 12 | [KravPath – Club Management System](https://kravmaga.alwaysdata.net/login) | Membership, subscriptions & trial-class tracking for a real sports club | Symfony, EasyAdminBundle, Doctrine ORM, PostgreSQL | Live demo & prod |
+| 12 | [KravPath – Club Management System](https://kravpath.gelamick.com/login) | Membership, subscriptions & trial-class tracking for a real sports club | Symfony, EasyAdminBundle, Doctrine ORM, PostgreSQL | Live demo & prod |
 | 13 | [michaelabergel.com](https://michaelabergel.com) – Personal Institutional Website | Personal branding site: background, skills, career path | WordPress, Elementor | Live in production |
 
 <details>

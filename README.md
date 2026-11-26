@@ -22,7 +22,10 @@ Formé à la data et à l'IA (Chef de projet en intelligence artificielle – As
 
 ---
 
-## 🇬🇧 English version
+<details>
+<summary><b>🇬🇧 English version</b></summary>
+
+<br>
 
 **Business & Sales Operations leader** with 20+ years of experience across sales, operations and performance management, in international and growing organizations.
 
@@ -34,21 +37,12 @@ This portfolio shows how I use data analytics, dashboards and AI prototypes to a
 
 > 🟢 Looking for a **Business Operations, Sales Operations or Revenue Operations** role in Montpellier and the surrounding area (hybrid). [Get in touch](https://michaelabergel.com/contact) · [More about my background](https://michaelabergel.com/a-propos-3/)
 
----
+</details>
 
-## 📑 Table of Contents
+<details>
+<summary><b>🔧 Expertise & certifications</b></summary>
 
-- [Expertise](#-expertise)
-- [🚀 Business Cases](#-business-cases)
-- [🗺️ Open Data Explorers](#️-open-data-explorers)
-- [🎓 Applied Learning Projects (Datascientest)](#-applied-learning-projects-datascientest)
-- [🛠️ Operational Tools & Automation](#️-operational-tools--automation)
-- [🌊 Other Personal Projects](#-other-personal-projects)
-- [Contact](#-contact)
-
----
-
-## 🔧 Expertise
+<br>
 
 **💼 Revenue & Sales Operations**
 CRM structuring & sales pipeline management · KPIs, dashboards & sales forecasting · Sales process & customer experience optimization · Sales team management & organization
@@ -70,6 +64,8 @@ Change management & organizational transformation · AI project scoping & delive
 
 > **A note on how these projects are built:** my core expertise is Business Operations, not software engineering. The projects below are built primarily through AI-assisted development — I drive the business logic, requirements and product decisions, dig into technical details when needed (debugging, architecture choices, deployment), and use AI tools to accelerate implementation. What I bring is the ability to frame the right problem, validate the output against real operational needs, and take a project from idea to something running in production (like KravPath).
 
+</details>
+
 ---
 
 ## 🚀 Business Cases
@@ -87,7 +83,11 @@ Interactive applications built to explore real operational and commercial questi
 | 7 | [Photovolt Data Hub](https://photovolt.onrender.com/) | Data lineage, catalog & GDPR compliance | Streamlit, PyVis, Pandas | POC 1.2.2 |
 
 <details>
-<summary><b>1. HELM – Executive Revenue & Cash Cockpit</b> — details</summary>
+<summary><b>📖 Project details</b></summary>
+
+<br>
+
+**1. HELM – Executive Revenue & Cash Cockpit**
 
 An executive financial cockpit giving company leaders a clear, actionable view of revenue and cash performance in under two minutes.
 
@@ -99,19 +99,13 @@ An executive financial cockpit giving company leaders a clear, actionable view o
 
 ⚠️ Demo version uses synthetic data generated via `data_generator.py`.
 
-</details>
-
-<details>
-<summary><b>2. Segment 360 – Multi-Sector Segmentation POC</b> — details</summary>
+**2. Segment 360 – Multi-Sector Segmentation POC**
 
 Automatically analyzes customer behavior and generates tailored marketing recommendations for multiple sectors including Camping, Photovoltaics, Training, Health & Wellness, and Modular Logistics. Provides key metrics such as Churn Score, Churn Risk, future LTV, and segment summaries (Cluster or RFM), with interactive charts and maps to identify high-potential or at-risk clients.
 
 **Key insight:** Quickly detect at-risk clients, estimate future LTV per segment, and generate tailored marketing strategies to improve retention and optimize marketing investments by sector.
 
-</details>
-
-<details>
-<summary><b>3. Assistant Leads AI</b> — details</summary>
+**3. Assistant Leads AI**
 
 Generates synthetic marketing leads, automatically analyzes their behavior, and predicts their conversion probability. Provides interest score, estimated conversion rate, and automatic recommendations to prioritize leads or integrate them into nurturing actions.
 
@@ -122,10 +116,7 @@ Generates synthetic marketing leads, automatically analyzes their behavior, and 
 
 **Key insight:** Demonstrates a full Data → ML → API → UI pipeline; a pedagogical POC for lead scoring and predictive analytics.
 
-</details>
-
-<details>
-<summary><b>4. LEVIER – Operating Model EdTech</b> — details</summary>
+**4. LEVIER – Operating Model EdTech**
 
 An operational simulation platform for COOs in EdTech to monitor, understand, and optimize the full learner lifecycle — from enrollment to certification.
 
@@ -137,10 +128,7 @@ An operational simulation platform for COOs in EdTech to monitor, understand, an
 
 ⚠️ Demo uses fully synthetic data generated via `generator.py` — no real user data.
 
-</details>
-
-<details>
-<summary><b>5. Optibox – Container Pricing Optimizer & Simulator</b> — details</summary>
+**5. Optibox – Container Pricing Optimizer & Simulator**
 
 An interactive pricing optimization and simulation platform for the modular logistics sector (container rental, modular storage, temporary logistics infrastructure). Combines data-driven price recommendations with manual what-if simulation tools.
 
@@ -148,10 +136,7 @@ An interactive pricing optimization and simulation platform for the modular logi
 
 **Key insight:** Enables logistics operators to move from static or intuition-based pricing to dynamic, data-driven pricing strategies, improving margin control and competitiveness.
 
-</details>
-
-<details>
-<summary><b>6. KravPath – Club Management System</b> — details</summary>
+**6. KravPath – Club Management System**
 
 A full membership management system built from scratch for a real Krav Maga club (KMM), currently used in production — not a demo with synthetic data. Covers the full member lifecycle: trial classes, registration, subscriptions, payment tracking, medical certificates and license validity, multi-club permission system.
 
@@ -162,10 +147,7 @@ A full membership management system built from scratch for a real Krav Maga club
 
 **Key insight:** Different from the other projects here — this one is not a data/AI prototype but a live operational tool, showing end-to-end ownership from requirements to production maintenance.
 
-</details>
-
-<details>
-<summary><b>7. Photovolt Data Hub</b> — details</summary>
+**7. Photovolt Data Hub**
 
 Explores the lifecycle of data in a photovoltaic project, from raw CSV files to a unified 360° client view. Provides interactive visualizations of data lineage, data catalog, and data quality metrics, and highlights sensitive columns for GDPR compliance.
 
@@ -180,9 +162,10 @@ Explores the lifecycle of data in a photovoltaic project, from raw CSV files to 
 
 ---
 
-## 🗺️ Open Data Explorers
+<details>
+<summary><b>🗺️ Open Data Explorers</b> — 3 dashboards built on Montpellier open data</summary>
 
-Dashboards built on Montpellier open data, to practice turning public datasets into readable indicators.
+<br>
 
 | Project | Focus | Stack | Version |
 |---|---|---|---|
@@ -190,32 +173,18 @@ Dashboards built on Montpellier open data, to practice turning public datasets i
 | [Montpellier Public Grants Data Explorer](https://attribution-des-subventions-aux.onrender.com/) | Public spending transparency | Streamlit | MVC 1.2.0 |
 | [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) | Camera coverage & incident mapping | Streamlit | POC 2.1.0 |
 
-<details>
-<summary><b>Montpellier Urban Bike Data Explorer</b> — details</summary>
+**Montpellier Urban Bike Data Explorer** — Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.
 
-Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.
+**Montpellier Public Grants Data Explorer** — Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
 
-</details>
-
-<details>
-<summary><b>Montpellier Public Grants Data Explorer</b> — details</summary>
-
-Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
+**Montpellier Surveillance Data Explorer** — Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.
 
 </details>
 
 <details>
-<summary><b>Montpellier Surveillance Data Explorer</b> — details</summary>
+<summary><b>🎓 Applied Learning Projects (Datascientest)</b> — 5 case studies from my data certifications</summary>
 
-Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.
-
-</details>
-
----
-
-## 🎓 Applied Learning Projects (Datascientest)
-
-Case studies completed during my Data Product Manager, Data Engineer, and Data Analyst certifications — each one tackling a concrete business or operational question.
+<br>
 
 | Project | Business Question | Certification |
 |---|---|---|
@@ -225,11 +194,12 @@ Case studies completed during my Data Product Manager, Data Engineer, and Data A
 | [Claim Insurance](https://github.com/gelamick/claim_insurance) | Can historical data predict insurance claim risk before it happens? | Data Analyst, Mar 2021 |
 | [Team Comparison Dashboard](https://github.com/gelamick/teamcomparedash) | How do you benchmark performance across teams/individuals from raw stats? | — |
 
----
+</details>
 
-## 🛠️ Operational Tools & Automation
+<details>
+<summary><b>🛠️ Operational Tools & Automation</b> — 3 small tools for day-to-day pain points</summary>
 
-Small tools built to solve day-to-day operational and commercial pain points.
+<br>
 
 | Project | Business Value |
 |---|---|
@@ -237,14 +207,20 @@ Small tools built to solve day-to-day operational and commercial pain points.
 | [Workplace Mental Health Metrics](https://github.com/gelamick/mental_health) | Gives HR and team leaders an early-warning indicator on wellbeing risk, based on existing HR data — supporting proactive rather than reactive people management. |
 | [LinkedIn Network Analyzer](https://github.com/gelamick/Net_Linkedin) 🗄️ *archived* | Surfaces key contacts and relationship clusters by year and company to prioritize outreach. |
 
----
+</details>
 
-## 🌊 Other Personal Projects
+<details>
+<summary><b>🌊 Other Personal Projects</b></summary>
+
+<br>
 
 | Project | Focus | Stack |
 |---|---|---|
 | [Palavas Surf & Paddle Conditions](https://padsurf-at-palavas-les-flots.onrender.com/) | Weather, swell and wind analysis to find the best water-sports windows, with Telegram alerts | Streamlit |
+| [VincennesX – Horse Racing Scoring](https://vincennesx.onrender.com/) | Machine learning and heuristic scoring on public trotting race data (AUC ROC 0.81) | Streamlit, web scraping |
 | [michaelabergel.com](https://michaelabergel.com) | Personal website, built end-to-end: domain, DNS, hosting, SSL, design and content | WordPress, Elementor |
+
+</details>
 
 ---
 
@@ -253,4 +229,3 @@ Small tools built to solve day-to-day operational and commercial pain points.
 - **LinkedIn:** [Michaël Abergel](https://fr.linkedin.com/in/michaelabergel)
 - **Email:** mitchabergel@gmail.com
 - **Site :** [michaelabergel.com](https://michaelabergel.com/contact)
-

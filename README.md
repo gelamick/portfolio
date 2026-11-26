@@ -1,31 +1,49 @@
-# Michaël Abergel - Business Operations Manager
+# Michaël Abergel — Responsable des opérations commerciales
 
-*🇫🇷 Profil basé en France, ouvert au marché français et aux entreprises internationales — README en anglais (convention GitHub), contenu détaillé en français sur [michaelabergel.com](https://michaelabergel.com).*
+**Business & Sales Operations · Pilotage de la performance · CRM & indicateurs · Management d'équipes**
 
-**Business Operations leader** with 20+ years of experience transforming organizations, optimizing processes, and driving performance across international, fast-growth environments.
+📍 Montpellier, France · Hybride possible &nbsp;·&nbsp; 📧 mitchabergel@gmail.com &nbsp;·&nbsp; [LinkedIn](https://fr.linkedin.com/in/michaelabergel) &nbsp;·&nbsp; [michaelabergel.com](https://michaelabergel.com)
 
-I help companies align **business, operations, and systems** to improve operational efficiency, data quality, and overall performance — combining commercial leadership, CRM/process optimization, and, more recently, data and AI as decision-support tools rather than as a coding practice.
+## 🇫🇷 En bref
 
-This portfolio illustrates how I use data analytics, dashboards, and AI prototypes to answer concrete business questions — pricing strategy, churn and retention, lead scoring, financial cockpits, operational simulations — the same questions I've addressed throughout my operations career, now supported by modern tools.
+Plus de 20 ans en développement commercial et en opérations : 11 ans chez Dell (France, Maroc, Allemagne), puis 14 ans chez Easy Access English, dont 7 comme directeur des opérations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michaël_Abergel-0A66C2?logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/michaelabergel)
+**📈 Quelques résultats :** équipes jusqu'à 33 personnes · portefeuille jusqu'à 3 000 clients · 44 M$ de chiffre d'affaires à 110 % de l'objectif · lancement d'un département commercial sur 3 marchés (Espagne, France, Italie)
 
-📍 Montpellier, France | Hybrid remote &nbsp;·&nbsp; 📧 mitchabergel@gmail.com
+Formé à la data et à l'IA (Chef de projet en intelligence artificielle – Ascencia ; Ingénieur de données – Mines Paris PSL ; Analyste de données – Sorbonne ; Chef de produit data – Datascientest), je conçois des outils qui répondent à des questions de pilotage. Trois exemples à découvrir en premier :
 
-> 🟢 **FR** — Ouvert à de nouvelles opportunités en **Business Operations, Revenue Operations, Sales Operations et Transformation opérationnelle** — en environnement salarié ou dans le cadre de missions stratégiques, en France ou à l'international. [Me contacter](https://michaelabergel.com/contact) · [Voir mon parcours](https://michaelabergel.com/a-propos-3/)
->
-> 🟢 **EN** — Open to new opportunities in **Business Operations, Revenue Operations, Sales Operations & Operational Transformation** — full-time or strategic missions, in France or internationally. [Get in touch](https://michaelabergel.com/contact) · [More about my background](https://michaelabergel.com/a-propos-3/)
+| Outil | À quoi il sert |
+|---|---|
+| [**HELM**](https://helm-ofag.onrender.com/) | Tableau de bord de direction : chiffre d'affaires, trésorerie, et simulation de l'effet des décisions |
+| [**Segment 360**](https://segment360-segmentation-clients-multi.onrender.com) | Segmentation clients et détection des clients à risque de départ |
+| [**Assistant Leads AI**](https://assistant-leads-ai-formation.onrender.com/) | Priorisation des prospects selon leur probabilité de conversion |
 
-**📈 Track record:** 40+ people managed · 3,000+ strategic accounts · 110% of a $44M sales plan · international rollout across 3 countries
+> 🟢 **Je recherche un poste de responsable des opérations ou de pilotage de la performance commerciale (Business, Sales ou Revenue Operations), à Montpellier et alentours.** [Me contacter](https://michaelabergel.com/contact) · [Voir mon parcours](https://michaelabergel.com/a-propos-3/)
+
+---
+
+## 🇬🇧 English version
+
+**Business & Sales Operations leader** with 20+ years of experience across sales, operations and performance management, in international and growing organizations.
+
+I help companies align **business, operations and systems** to improve operational efficiency, data quality and overall performance — combining commercial leadership, CRM and process optimization, and, more recently, data and AI as decision-support tools.
+
+This portfolio shows how I use data analytics, dashboards and AI prototypes to answer concrete business questions — financial cockpits, churn and retention, lead scoring, pricing, operational simulations — the same questions I have addressed throughout my operations career.
+
+**📈 Track record:** teams of up to 33 people · portfolios of up to 3,000 accounts · 110% of a $44M sales plan · sales department launched across 3 markets (Spain, France, Italy)
+
+> 🟢 Looking for a **Business Operations, Sales Operations or Revenue Operations** role in Montpellier and the surrounding area (hybrid). [Get in touch](https://michaelabergel.com/contact) · [More about my background](https://michaelabergel.com/a-propos-3/)
 
 ---
 
 ## 📑 Table of Contents
 
 - [Expertise](#-expertise)
-- [🚀 Live Demos — Business Cases](#-live-demos--business-cases)
+- [🚀 Business Cases](#-business-cases)
+- [🗺️ Open Data Explorers](#️-open-data-explorers)
 - [🎓 Applied Learning Projects (Datascientest)](#-applied-learning-projects-datascientest)
 - [🛠️ Operational Tools & Automation](#️-operational-tools--automation)
+- [🌊 Other Personal Projects](#-other-personal-projects)
 - [Contact](#-contact)
 
 ---
@@ -33,10 +51,10 @@ This portfolio illustrates how I use data analytics, dashboards, and AI prototyp
 ## 🔧 Expertise
 
 **💼 Revenue & Sales Operations**
-CRM structuring & sales pipeline management · KPI, dashboards & sales forecast piloting · Sales process & customer experience optimization · Sales team management & organization
+CRM structuring & sales pipeline management · KPIs, dashboards & sales forecasting · Sales process & customer experience optimization · Sales team management & organization
 
 **📈 Business Development**
-B2B strategic account growth (3,000+ accounts managed) · International expansion — multi-country offshore center (France, Spain, Morocco) · Complex sales cycles & key account negotiation · Sales leadership & management (40+ people)
+B2B account portfolio growth (up to 3,000 accounts) · International expansion — offshore sales center in Morocco covering Spain, France and Italy · Key account management & negotiation · Sales leadership (teams of up to 33 people)
 
 **📊 Business Operations & Data**
 Business Intelligence & KPI dashboards · Data reliability & structuring · Reporting & workflow automation · Customer/segment analytics · AI-assisted prototyping for business cases
@@ -44,72 +62,47 @@ Business Intelligence & KPI dashboards · Data reliability & structuring · Repo
 **🔄 Transformation & AI**
 Change management & organizational transformation · AI project scoping & delivery · Team training & upskilling · Cross-functional coordination
 
-**Professional certifications:** Chef de Projet en Intelligence Artificielle — RNCP Level 7 (Audencia Business School, 2025)¹ · Data Product Manager (Datascientest, 2025) · Data Engineer (Mines Paris PSL, 2024) · Data Analyst (Sorbonne, 2021)
+**Professional certifications:** Chef de Projet en Intelligence Artificielle — RNCP Level 7 (Ascencia Business School, 2022–2025)¹ · Data Product Manager (Datascientest, 2025) · Data Engineer (Mines Paris PSL, 2024) · Data Analyst (Sorbonne, 2021)
 
 **Training completed (MOOCs, not formal certifications):** Salesforce CRM — Administration & Sales Fundamentals (Trailhead) · Revenue Operations & Sales Enablement (HubSpot Academy)
 
-<sub>¹ RNCP Level 7 is a professional qualification registered with France Compétences, equivalent to a Bac+5/Master level of study and qualification — though not, legally, a *diplôme national de master*.</sub>
+<sub>¹ RNCP Level 7 is a professional qualification registered with France Compétences, equivalent to a Bac+5/Master level — though not, legally, a *diplôme national de master*.</sub>
 
-> **A note on how these projects are built:** my core expertise is Business Operations, not software engineering — but I'm genuinely tech-savvy and enjoy working hands-on with technology. The projects below are built primarily through AI-assisted development ("vibe coding") — I drive the business logic, requirements, and product decisions, dig into the technical details when needed (debugging, architecture choices, deployment), and use AI tools to accelerate implementation. What I bring is the ability to frame the right problem, stay technically involved rather than just delegating, validate the output against real operational needs, and take a project from idea to something actually running in production (like KravPath). I see this as a natural extension of Business/Revenue Operations work — using modern tools to build and validate ideas quickly, not as a claim to be a professional developer.
+> **A note on how these projects are built:** my core expertise is Business Operations, not software engineering. The projects below are built primarily through AI-assisted development — I drive the business logic, requirements and product decisions, dig into technical details when needed (debugging, architecture choices, deployment), and use AI tools to accelerate implementation. What I bring is the ability to frame the right problem, validate the output against real operational needs, and take a project from idea to something running in production (like KravPath).
 
 ---
 
-## 🚀 Live Demos — Business Cases
+## 🚀 Business Cases
 
-Interactive applications built to explore real operational and commercial questions — pricing, churn, lead conversion, financial performance, resource allocation. Each one started from a business problem, not a technical exercise.
+Interactive applications built to explore real operational and commercial questions. Each one started from a business problem, not a technical exercise.
 
 | # | Project | Focus | Stack | Version |
 |---|---|---|---|---|
-| 1 | [Palavas Surf & Paddle Conditions](https://padsurf-at-palavas-les-flots.onrender.com/) | Weather/swell analysis for water sports | Streamlit | POC 2.1.0 |
-| 2 | [Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com) | Urban mobility analytics | Streamlit, geo data | MVC 4.1 |
-| 3 | [Montpellier Public Grants Data Explorer](https://attribution-des-subventions-aux.onrender.com/) | Public spending transparency | Streamlit | MVC 1.2.0 |
-| 4 | [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) | Camera coverage & incident mapping | Streamlit | POC 2.1.0 |
-| 5 | [Segment 360 – Multi-Sector Segmentation](https://segment360-segmentation-clients-multi.onrender.com) | Customer segmentation & churn scoring | Streamlit | POC 2.4.0 |
-| 6 | [Assistant Leads AI](https://assistant-leads-ai-formation.onrender.com/) | Lead scoring & conversion prediction | RandomForest, LightGBM, CatBoost, XGBoost | POC 1.4.2 |
+| 1 | [HELM – Executive Revenue & Cash Cockpit](https://helm-ofag.onrender.com/) | Executive financial dashboard & decision simulation | Streamlit, Pandas | 1.3 |
+| 2 | [Segment 360 – Multi-Sector Segmentation](https://segment360-segmentation-clients-multi.onrender.com) | Customer segmentation & churn scoring | Streamlit | POC 2.4.0 |
+| 3 | [Assistant Leads AI](https://assistant-leads-ai-formation.onrender.com/) | Lead scoring & conversion prediction | RandomForest, LightGBM, CatBoost, XGBoost | POC 1.4.2 |
+| 4 | [LEVIER – EdTech Operating Model](https://levier.onrender.com) | Learner lifecycle & operations simulation | Streamlit, Faker | 1.3.0 |
+| 5 | [Optibox – Container Pricing Optimizer](https://optibox-container-pricing-simulator.onrender.com/) | Pricing strategy simulation | Streamlit, Plotly | 1.0.0 |
+| 6 | [KravPath – Club Management System](https://kravpath.gelamick.com/login) | Membership, subscriptions & trial-class tracking for a real sports club | Symfony, EasyAdminBundle, Doctrine ORM, PostgreSQL | Live demo & prod |
 | 7 | [Photovolt Data Hub](https://photovolt.onrender.com/) | Data lineage, catalog & GDPR compliance | Streamlit, PyVis, Pandas | POC 1.2.2 |
-| 8 | [Optibox – Container Pricing Optimizer](https://optibox-container-pricing-simulator.onrender.com/) | Pricing strategy simulation | Streamlit, Plotly | 1.0.0 |
-| 9 | [VincennesX – Horse Racing Prediction](https://vincennesx.onrender.com/) | ML + heuristic race scoring | Streamlit, web scraping | 4.1.0 |
-| 10 | [HELM – Executive Revenue & Cash Cockpit](https://helm-ofag.onrender.com/) | Executive financial dashboard | Streamlit, Pandas | 1.3 |
-| 11 | [LEVIER – EdTech Operating Model](https://levier.onrender.com) | Learner lifecycle & operations simulation | Streamlit, Faker | 1.3.0 |
-| 12 | [KravPath – Club Management System](https://kravpath.gelamick.com/login) | Membership, subscriptions & trial-class tracking for a real sports club | Symfony, EasyAdminBundle, Doctrine ORM, PostgreSQL | Live demo & prod |
-| 13 | [michaelabergel.com](https://michaelabergel.com) – Personal Institutional Website | Personal branding site: background, skills, career path | WordPress, Elementor | Live in production |
 
 <details>
-<summary><b>1. Palavas Surf & Paddle Conditions</b> — details</summary>
+<summary><b>1. HELM – Executive Revenue & Cash Cockpit</b> — details</summary>
 
-Finding ideal conditions for surfing or paddleboarding in Palavas-les-Flots (and the Mediterranean) is rare and challenging — short, irregular swells, variable winds, and spot orientation all affect wave quality.
+An executive financial cockpit giving company leaders a clear, actionable view of revenue and cash performance in under two minutes.
 
-This app analyzes weather, swell, and wind data to identify perfect windows for water sports, boost local activity, and enhance coastal tourism.
+- 📊 Executive dashboard with 5 core financial KPIs (Revenue, Cashflow, EBE, CAF, Time-to-Cash)
+- 🔍 Revenue engine analysis from orders to cash collection
+- 🌀 Flywheel diagnostics identifying operational frictions
+- 🔮 Decision simulations to test strategic actions' impact on cashflow
+- 🧠 Automated executive insights
 
-- Real-time updates every 30 minutes
-- Weekly forecasts
-- Telegram notifications twice daily to never miss a session
+⚠️ Demo version uses synthetic data generated via `data_generator.py`.
 
 </details>
 
 <details>
-<summary><b>2. Montpellier Urban Bike Data Explorer</b> — details</summary>
-
-Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.
-
-</details>
-
-<details>
-<summary><b>3. Montpellier Public Grants Data Explorer</b> — details</summary>
-
-Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
-
-</details>
-
-<details>
-<summary><b>4. Montpellier Surveillance Data Explorer</b> — details</summary>
-
-Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.
-
-</details>
-
-<details>
-<summary><b>5. Segment 360 – Multi-Sector Segmentation POC</b> — details</summary>
+<summary><b>2. Segment 360 – Multi-Sector Segmentation POC</b> — details</summary>
 
 Automatically analyzes customer behavior and generates tailored marketing recommendations for multiple sectors including Camping, Photovoltaics, Training, Health & Wellness, and Modular Logistics. Provides key metrics such as Churn Score, Churn Risk, future LTV, and segment summaries (Cluster or RFM), with interactive charts and maps to identify high-potential or at-risk clients.
 
@@ -118,7 +111,7 @@ Automatically analyzes customer behavior and generates tailored marketing recomm
 </details>
 
 <details>
-<summary><b>6. Assistant Leads AI</b> — details</summary>
+<summary><b>3. Assistant Leads AI</b> — details</summary>
 
 Generates synthetic marketing leads, automatically analyzes their behavior, and predicts their conversion probability. Provides interest score, estimated conversion rate, and automatic recommendations to prioritize leads or integrate them into nurturing actions.
 
@@ -128,6 +121,46 @@ Generates synthetic marketing leads, automatically analyzes their behavior, and 
 - ML models: RandomForest, LightGBM, CatBoost, XGBoost
 
 **Key insight:** Demonstrates a full Data → ML → API → UI pipeline; a pedagogical POC for lead scoring and predictive analytics.
+
+</details>
+
+<details>
+<summary><b>4. LEVIER – Operating Model EdTech</b> — details</summary>
+
+An operational simulation platform for COOs in EdTech to monitor, understand, and optimize the full learner lifecycle — from enrollment to certification.
+
+- 🎓 End-to-end learner journey tracking
+- ⚠️ Dropout risk scoring based on engagement, progression, and support interactions
+- 🏢 Department workload monitoring (Admissions, Support, SAV, Exams)
+- 🔄 Inter-department simulation engine to model cascading operational impacts
+- 📊 Dynamic dashboards for engagement, tickets, performance, outcomes
+
+⚠️ Demo uses fully synthetic data generated via `generator.py` — no real user data.
+
+</details>
+
+<details>
+<summary><b>5. Optibox – Container Pricing Optimizer & Simulator</b> — details</summary>
+
+An interactive pricing optimization and simulation platform for the modular logistics sector (container rental, modular storage, temporary logistics infrastructure). Combines data-driven price recommendations with manual what-if simulation tools.
+
+**7 pricing strategies available:** Value-based, Competitive, Cost-plus, Dynamic, Skimming, Penetration, Economic.
+
+**Key insight:** Enables logistics operators to move from static or intuition-based pricing to dynamic, data-driven pricing strategies, improving margin control and competitiveness.
+
+</details>
+
+<details>
+<summary><b>6. KravPath – Club Management System</b> — details</summary>
+
+A full membership management system built from scratch for a real Krav Maga club (KMM), currently used in production — not a demo with synthetic data. Covers the full member lifecycle: trial classes, registration, subscriptions, payment tracking, medical certificates and license validity, multi-club permission system.
+
+- Symfony 7 / EasyAdminBundle 5, role- and club-based access control
+- Async email processing via Symfony Messenger (queued worker, e.g. password resets)
+- Live maintenance discipline: dependency upgrades, prompt patching of a disclosed access-control CVE
+- Custom theming layer kept in sync across a major admin-framework version migration
+
+**Key insight:** Different from the other projects here — this one is not a data/AI prototype but a live operational tool, showing end-to-end ownership from requirements to production maintenance.
 
 </details>
 
@@ -145,84 +178,36 @@ Explores the lifecycle of data in a photovoltaic project, from raw CSV files to 
 
 </details>
 
+---
+
+## 🗺️ Open Data Explorers
+
+Dashboards built on Montpellier open data, to practice turning public datasets into readable indicators.
+
+| Project | Focus | Stack | Version |
+|---|---|---|---|
+| [Montpellier Urban Bike Data Explorer](https://compteurs-velo-de-montpellier.onrender.com) | Urban mobility analytics | Streamlit, geo data | MVC 4.1 |
+| [Montpellier Public Grants Data Explorer](https://attribution-des-subventions-aux.onrender.com/) | Public spending transparency | Streamlit | MVC 1.2.0 |
+| [Montpellier Surveillance Data Explorer](https://cameras-ef-faits-divers-montpellier.onrender.com) | Camera coverage & incident mapping | Streamlit | POC 2.1.0 |
+
 <details>
-<summary><b>8. Optibox – Container Pricing Optimizer & Simulator</b> — details</summary>
+<summary><b>Montpellier Urban Bike Data Explorer</b> — details</summary>
 
-An interactive pricing optimization and simulation platform for the modular logistics sector (container rental, modular storage, temporary logistics infrastructure). Combines data-driven price recommendations with manual what-if simulation tools.
-
-**7 pricing strategies available:** Value-based, Competitive, Cost-plus, Dynamic, Skimming, Penetration, Economic.
-
-**Key insight:** Enables logistics operators to move from static or intuition-based pricing to dynamic, data-driven pricing strategies, improving margin control and competitiveness.
+Interactive interface for bike counts across Montpellier. Uses OpenDataMontpellier datasets, school calendars, holidays, and neighborhood maps. Users can explore daily traffic, compare counters, analyze contextual impacts, view maps with nearby points of interest, and get monthly projections.
 
 </details>
 
 <details>
-<summary><b>9. VincennesX – Horse Racing Scoring & Prediction</b> — details</summary>
+<summary><b>Montpellier Public Grants Data Explorer</b> — details</summary>
 
-An interactive platform for scoring and predicting horse performance, focused on Vincennes trotting races. Combines:
-- 🤖 Machine Learning — predicts horse rankings (AUC ROC = 0.8066, Top4 = 62%)
-- ⚖️ Heuristic scoring — based on past performance, consistency, context, race adjustments
-- 🌐 Web scraping — collects PMU data: results, odds, jockeys, trainers
-
-**Insight:** Combines real-time data, statistical analysis, and ML to provide reliable horse performance evaluation.
+Interactive dashboard analyzing how public grants are distributed by the City and Metropolis of Montpellier. Built from open data on municipal subsidies to associations, cleaned and categorized by entity, year, and policy axis. Users can explore funding by sector, compare years, and visualize equity trends.
 
 </details>
 
 <details>
-<summary><b>10. HELM – Executive Revenue & Cash Cockpit</b> — details</summary>
+<summary><b>Montpellier Surveillance Data Explorer</b> — details</summary>
 
-An executive financial cockpit giving company leaders a clear, actionable view of revenue and cash performance in under two minutes.
-
-- 📊 Executive dashboard with 5 core financial KPIs (Revenue, Cashflow, EBE, CAF, Time-to-Cash)
-- 🔍 Revenue engine analysis from orders to cash collection
-- 🌀 Flywheel diagnostics identifying operational frictions
-- 🔮 Decision simulations to test strategic actions' impact on cashflow
-- 🧠 Automated executive insights
-
-⚠️ Demo version uses synthetic data generated via `data_generator.py`.
-
-</details>
-
-<details>
-<summary><b>11. LEVIER – Operating Model EdTech</b> — details</summary>
-
-An operational simulation platform for COOs in EdTech to monitor, understand, and optimize the full learner lifecycle — from enrollment to certification.
-
-- 🎓 End-to-end learner journey tracking
-- ⚠️ Dropout risk scoring based on engagement, progression, and support interactions
-- 🏢 Department workload monitoring (Admissions, Support, SAV, Exams)
-- 🔄 Inter-department simulation engine to model cascading operational impacts
-- 📊 Dynamic dashboards for engagement, tickets, performance, outcomes
-
-⚠️ Demo uses fully synthetic data generated via `generator.py` — no real user data.
-
-</details>
-
-<details>
-<summary><b>12. KravPath – Club Management System</b> — details</summary>
-
-A full membership management system built from scratch for a real Krav Maga club (KMM), currently used in production — not a demo with synthetic data. Covers the full member lifecycle: trial classes, registration, subscriptions, payment tracking, medical certificates and license validity, multi-club permission system.
-
-- Symfony 7 / EasyAdminBundle 5, role- and club-based access control
-- Async email processing via Symfony Messenger (queued worker, e.g. password resets)
-- Live maintenance discipline: dependency upgrades, prompt patching of a disclosed access-control CVE
-- Custom theming layer kept in sync across a major admin-framework version migration
-
-**Key insight:** Different from the other projects here — this one is not a data/AI prototype but a live operational tool, showing end-to-end ownership from requirements to production maintenance.
-
-</details>
-
-<details>
-<summary><b>13. michaelabergel.com – Personal Institutional Website</b> — details</summary>
-
-My own personal website, presenting my background, skills, and career path — built end-to-end, from domain purchase and DNS configuration to design and content.
-
-- WordPress + Elementor (page builder, responsive design)
-- Domain name registration, DNS configuration (A/CNAME records, MX for professional email)
-- Hosting setup, SSL/HTTPS configuration
-- On-page SEO basics (meta tags, structured headings, sitemap)
-
-**Key insight:** A small but complete example of taking a personal branding project end-to-end — not just design, but the full technical chain from domain to live site.
+Interactive interface to explore surveillance camera coverage and local incident data in Montpellier. Leverages cleaned datasets of city cameras, neighborhood boundaries, and geolocated incident reports. Users can visualize camera density, track installation trends, find nearby cameras, explore incident clusters, and view statistical summaries.
 
 </details>
 
@@ -230,7 +215,7 @@ My own personal website, presenting my background, skills, and career path — b
 
 ## 🎓 Applied Learning Projects (Datascientest)
 
-Case studies completed during my Data Product Manager, Data Engineer, and Data Analyst certifications — each one tackling a concrete business or operational question, not just a technical exercise.
+Case studies completed during my Data Product Manager, Data Engineer, and Data Analyst certifications — each one tackling a concrete business or operational question.
 
 | Project | Business Question | Certification |
 |---|---|---|
@@ -244,16 +229,28 @@ Case studies completed during my Data Product Manager, Data Engineer, and Data A
 
 ## 🛠️ Operational Tools & Automation
 
-Small tools built to solve day-to-day operational and commercial pain points — saving time, improving relationship intelligence, and supporting people-related decisions.
+Small tools built to solve day-to-day operational and commercial pain points.
 
 | Project | Business Value |
 |---|---|
 | [Email Campaign Automation](https://github.com/gelamick/marcom_email) | Removes manual work from recurring marketing campaigns — personalized content and delivery tracking without touching a spreadsheet by hand. |
-| [LinkedIn Network Analyzer](https://github.com/gelamick/Net_Linkedin) 🗄️ *Projet archivé / non maintenu* | Turns a personal/professional network into a strategic asset — surfaces key contacts and relationship clusters by year and company to prioritize outreach. |
 | [Workplace Mental Health Metrics](https://github.com/gelamick/mental_health) | Gives HR and team leaders an early-warning indicator on wellbeing risk, based on existing HR data — supporting proactive rather than reactive people management. |
+| [LinkedIn Network Analyzer](https://github.com/gelamick/Net_Linkedin) 🗄️ *archived* | Surfaces key contacts and relationship clusters by year and company to prioritize outreach. |
+
+---
+
+## 🌊 Other Personal Projects
+
+| Project | Focus | Stack |
+|---|---|---|
+| [Palavas Surf & Paddle Conditions](https://padsurf-at-palavas-les-flots.onrender.com/) | Weather, swell and wind analysis to find the best water-sports windows, with Telegram alerts | Streamlit |
+| [michaelabergel.com](https://michaelabergel.com) | Personal website, built end-to-end: domain, DNS, hosting, SSL, design and content | WordPress, Elementor |
 
 ---
 
 ## 📫 Contact
 
 - **LinkedIn:** [Michaël Abergel](https://fr.linkedin.com/in/michaelabergel)
+- **Email:** mitchabergel@gmail.com
+- **Site :** [michaelabergel.com](https://michaelabergel.com/contact)
+
